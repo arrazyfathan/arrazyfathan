@@ -10,8 +10,6 @@ Skills:
 - 💬 Ask me about Android and Kotlin 
 - 📫 How to reach me: arrazy.rabbani266@gmail.com 
 
-
-[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/arrazyfathan) 
 [<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/arrazyfathann)  [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/arrazyfathan/)
 
 ---
