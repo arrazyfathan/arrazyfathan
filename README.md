@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Razy
+### Hi there 👋, my name is Ar Razy Fathan Rabbani 
 #### I am a Android Engineer
 
 Skills:
