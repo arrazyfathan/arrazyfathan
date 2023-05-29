@@ -1,3 +1,7 @@
+![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/2252ea3595c36618091c7d1305ea8fc277710510/banner-dark.png#gh-dark-mode-only)
+![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/2252ea3595c36618091c7d1305ea8fc277710510/banner-light.png#gh-light-mode-only)
+
+
 ### Hi there 👋, 
 ### my name is Ar Razy Fathan Rabbani 
 #### I am a Android Engineer
