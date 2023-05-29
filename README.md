@@ -29,7 +29,7 @@ val Razy = human {
         "- 🔭 I’m currently working on Android/Kotlin ",
         "- 👯 I’m looking to collaborate on Android projects ",
         "- 💬 Ask me about Android and Kotlin ",
-        "
+        "- 📫 How to reach me: arrazy.rabbani266@gmail.com"
       )
     }
 }
