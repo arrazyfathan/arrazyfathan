@@ -43,3 +43,9 @@ val Razy = human {
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arrazyfathan&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrazyfathan&layout=compact" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arrazyfathan/arrazyfathan/blob/57c3949de7b7cd83b85812369142879da14c06bf/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/arrazyfathan/arrazyfathan/blob/57c3949de7b7cd83b85812369142879da14c06bf/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg](https://github.com/arrazyfathan/arrazyfathan/blob/57c3949de7b7cd83b85812369142879da14c06bf/github-contribution-grid-snake.svg)">
+</picture>
