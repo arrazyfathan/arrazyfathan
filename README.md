@@ -3,21 +3,39 @@
 
 ## <img width="30" alt="about" src="https://github.com/arrazyfathan/arrazyfathan/blob/43b7c98714907478c7d31837bcf9ee8c2c5dc636/about.png"> More about me
 
+```kotlin
+val Razy = human {
+    about {
+        name = "Ar Razy Fathan Rabbani"
+        company = Gamatechno
+        role = "Android Engineer"
+    }
 
-### Hi there 👋, 
-### my name is Ar Razy Fathan Rabbani 
-#### I am a Android Engineer
+    tech {
+        day("Kotlin", "Android", "Java")
+    }
 
-Skills:
+    links {
+        twitter = "@arrazyfathann"
+        website = "arrazyfathan.com"
+        linkedin = "linkedin.com/in/arrazyfathan"
+        email = "arrazy.rabbani266@gmail.com"
+        mastodon = "@arrazyfathan@androiddev.social"
+        instagram = "arrazyfathan"
+    }
 
-<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/>
+    more {
+      listOf(
+        "- 🔭 I’m currently working on Android/Kotlin ",
+        "- 👯 I’m looking to collaborate on Android projects ",
+        "- 💬 Ask me about Android and Kotlin ",
+        "
+      )
+    }
+}
+```
 
-- 🔭 I’m currently working on Android/Kotlin 
-- 👯 I’m looking to collaborate on Android projects 
-- 💬 Ask me about Android and Kotlin 
-- 📫 How to reach me: arrazy.rabbani266@gmail.com 
-
-[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/arrazyfathann)  [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/arrazyfathan/)
+[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/arrazyfathann)[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/arrazyfathan/)[<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/>]()[<img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/>]()
 
 ---
 
