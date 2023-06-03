@@ -7,7 +7,6 @@
 val Razy = human {
     about {
         name = "Ar Razy Fathan Rabbani"
-        company = Gamatechno
         role = "Android Engineer"
     }
 
