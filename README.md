@@ -11,7 +11,7 @@ val Razy = human {
     }
 
     tech {
-        day("Kotlin", "Android", "Java")
+        day("Kotlin", "Android")
     }
 
     links {
