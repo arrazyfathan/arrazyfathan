@@ -4,10 +4,10 @@ fun createReadMe(
     githubActivity: List<ActivityItem>
 ): String {
     return """
-![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/2252ea3595c36618091c7d1305ea8fc277710510/banner-dark.png#gh-dark-mode-only)
-![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/2252ea3595c36618091c7d1305ea8fc277710510/banner-light.png#gh-light-mode-only)
+![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/main/media/banner-dark.png#gh-dark-mode-only)
+![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/main/media/banner-light.png#gh-light-mode-only)
 
-### <img width="30" alt="about" src="https://github.com/arrazyfathan/arrazyfathan/blob/43b7c98714907478c7d31837bcf9ee8c2c5dc636/about.png"> More about me
+### <img width="30" alt="about" src="https://github.com/arrazyfathan/arrazyfathan/blob/main/media/about.png"> More about me
 
 ```kotlin
 val Razy = human {
