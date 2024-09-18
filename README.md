@@ -54,5 +54,8 @@ val Razy = human {
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 © 2024 — Ar Razy Fathan Rabbani
