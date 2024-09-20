@@ -39,6 +39,10 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-09-19** — pushed [4c4d23a](https://github.com/arrazyfathan/arrazyfathan/commits/4c4d23a6d48d8439ddb9977356bee7ff1b3e9a13) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Remove unused file"
+
+**2024-09-19** — pushed [839854b](https://github.com/arrazyfathan/arrazyfathan/commits/839854b833bd4cdc0593936f4266b7b757145054) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow for wakatime"
+
 **2024-09-18** — pushed [96597d1](https://github.com/arrazyfathan/arrazyfathan/commits/96597d1eba36c794e8fbf013e43baba7353fa78d) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow"
 
 **2024-09-18** — pushed [b4c517d](https://github.com/arrazyfathan/arrazyfathan/commits/b4c517d2b80f8f9a146ddfaf47ac776174ce1f6a) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Add wakatime"
@@ -59,24 +63,6 @@ val Razy = human {
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 18 September 2024
-
-Total Time: 5 hrs 38 mins
-
-Kotlin            3 hrs 57 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   70.04 %
-YAML              33 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.89 %
-Groovy            20 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.03 %
-Markdown          18 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.59 %
-Gradle            14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.30 %
-XML               9 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.69 %
-Text              1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.49 %
-HTML              1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.30 %
-TOML              1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.30 %
-Java              0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
