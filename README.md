@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-09-19** — pushed [a6d494e](https://github.com/arrazyfathan/arrazyfathan/commits/a6d494e24c10a23a65f395955a9ab3ddfa17fef9) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow"
+
 **2024-09-19** — pushed [4c4d23a](https://github.com/arrazyfathan/arrazyfathan/commits/4c4d23a6d48d8439ddb9977356bee7ff1b3e9a13) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Remove unused file"
 
 **2024-09-19** — pushed [839854b](https://github.com/arrazyfathan/arrazyfathan/commits/839854b833bd4cdc0593936f4266b7b757145054) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow for wakatime"
@@ -56,29 +58,11 @@ val Razy = human {
 **2024-09-12** — created repository on [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan)
 
 **2024-08-30** — created tag `1.0` on [arrazyfathan/Moviequ](https://github.com/arrazyfathan/Moviequ)
-
-**2024-08-30** — pushed [08ecdcf](https://github.com/arrazyfathan/Moviequ/commits/08ecdcf4455381bed8f0f9269cdd8989abed1d84) to [arrazyfathan/Moviequ](https://github.com/arrazyfathan/Moviequ): "Create publish-release.yml"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 19 September 2024
-
-Total Time: 7 hrs 4 mins
-
-Kotlin                 4 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.35 %
-YAML                   55 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.85 %
-Groovy                 36 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.38 %
-Gradle                 27 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.27 %
-Markdown               18 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.39 %
-XML                    9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.11 %
-HTTP Request           8 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.02 %
-Other                  6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.45 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
