@@ -1,34 +1,77 @@
 name: CI
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '32 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-    - name: Install JDK 17
-      uses: actions/setup-java@v2
-      with:
-        distribution: 'zulu'
-        java-version: 17
-    - uses: actions/cache@v2
-      with:
-        path: |
-          ~/.gradle/caches
-          ~/.gradle/wrapper
-        key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}
-        restore-keys: |
-          ${{ runner.os }}-gradle-
-    - name: Update README
-      run: |-
-        chmod +x ./gradlew
-        ./gradlew run --args="-o README.md"
-        cat README.md
-    - name: (Fail-only) Upload the build report
-      if: failure()
-      uses: actions/upload-artifact@v4
-      with:
-        name: error-report
-        path: build-reports.zip
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '21'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Update README
+        run: ./update_readme.sh
+
+      - name: (Fail-only) Upload the build report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-report
+          path: build-reports.zip
+
+      - name: Commit and push if changed
+        if: github.event_name != 'pull_request'
+        run: |
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
+
+    update-readme:
+      name: WakaReadme Update
+      needs: build
+      runs-on: ubuntu-latest
+      steps:
+        # this action name
+        - uses: athul/waka-readme@master # do NOT replace with anything else
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+            ### content
+            SHOW_TITLE: true # optional
+            SECTION_NAME: waka # optional
+            BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+            CODE_LANG: kotlin # optional
+            TIME_RANGE: all_time # optional
+            LANG_COUNT: 10 # optional
+            SHOW_TIME: true # optional
+            SHOW_TOTAL: true # optional
+            SHOW_MASKED_TIME: false # optional
+            STOP_AT_OTHER: true # optional
+            IGNORED_LANGUAGES: YAML JSON TOML # optional
+            ### commit
+            #COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+            #TARGET_BRANCH: master # optional
+            #TARGET_PATH: README.md # optional
+            #COMMITTER_NAME: GitHubActionBot # optional
+            #COMMITTER_EMAIL: action-bot@github.com # optional
+            #AUTHOR_NAME: YOUR_NAME # optional
+            #AUTHOR_EMAIL: YOUR@EMAIL.com # optional
+            # you can populate email-id with secrets instead
