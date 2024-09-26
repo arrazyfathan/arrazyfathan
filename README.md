@@ -39,6 +39,14 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-09-25** — pushed [4045a61](https://github.com/arrazyfathan/arrazyfathan/commits/4045a61f4114e06ebb0b1ec648fda80a3daece44) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change cron schedule"
+
+**2024-09-25** — pushed [a0179b7](https://github.com/arrazyfathan/arrazyfathan/commits/a0179b747887a131e5d141de9ad7d8554382a36f) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update permission"
+
+**2024-09-25** — pushed [cdf3c06](https://github.com/arrazyfathan/arrazyfathan/commits/cdf3c0612676df906f19dbb728ad1ece6f1517de) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Fixing indentation ci.yml"
+
+**2024-09-25** — pushed [9ce0950](https://github.com/arrazyfathan/arrazyfathan/commits/9ce0950a108a0fc99359629d1c79d7dee2df8413) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Add update_readme.sh"
+
 **2024-09-19** — pushed [a6d494e](https://github.com/arrazyfathan/arrazyfathan/commits/a6d494e24c10a23a65f395955a9ab3ddfa17fef9) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow"
 
 **2024-09-19** — pushed [4c4d23a](https://github.com/arrazyfathan/arrazyfathan/commits/4c4d23a6d48d8439ddb9977356bee7ff1b3e9a13) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Remove unused file"
@@ -50,32 +58,11 @@ val Razy = human {
 **2024-09-18** — pushed [b4c517d](https://github.com/arrazyfathan/arrazyfathan/commits/b4c517d2b80f8f9a146ddfaf47ac776174ce1f6a) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Add wakatime"
 
 **2024-09-12** — pushed [a12e7b3](https://github.com/arrazyfathan/arrazyfathan/commits/a12e7b37af2738934309e833d3e513a55422a813) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow"
-
-**2024-09-12** — pushed [1cceb05](https://github.com/arrazyfathan/arrazyfathan/commits/1cceb056de77ba73d4f4ca826ef886e2fefe2ce8) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update linking media"
-
-**2024-09-12** — created branch `main` on [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan)
-
-**2024-09-12** — created repository on [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 25 September 2024
-
-Total Time: 22 hrs 24 mins
-
-Kotlin                 11 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.19 %
-XML                    4 hrs 54 mins   ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.38 %
-Image (svg)            1 hr 53 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.25 %
-YAML                   1 hr 20 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.83 %
-Groovy                 39 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.87 %
-HTTP Request           39 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.87 %
-Other                  34 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.48 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
