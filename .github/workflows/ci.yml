@@ -26,7 +26,9 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
 
       - name: Update README
-        run: chmod +x ./update_readme.sh
+        run: |-
+          ./gradlew run --args="-o README.md"
+           cat README.md
 
       - name: (Fail-only) Upload the build report
         if: failure()
@@ -36,8 +38,7 @@ jobs:
           path: build-reports.zip
 
       - name: Commit and push if changed
-        if: github.event_name != 'pull_request'
-        run: |
+        run: |-
           git diff
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "README-bot"
