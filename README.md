@@ -39,6 +39,10 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-09-25** — pushed [c216eec](https://github.com/arrazyfathan/arrazyfathan/commits/c216eec71936c8dea7596b046f3b5752db049b2e) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Downgrade java version to 17"
+
+**2024-09-25** — pushed [02c5d2f](https://github.com/arrazyfathan/arrazyfathan/commits/02c5d2fa8d6c886224206d6937b3bc384dc155a2) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change execute to update readme"
+
 **2024-09-25** — pushed [4045a61](https://github.com/arrazyfathan/arrazyfathan/commits/4045a61f4114e06ebb0b1ec648fda80a3daece44) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change cron schedule"
 
 **2024-09-25** — pushed [a0179b7](https://github.com/arrazyfathan/arrazyfathan/commits/a0179b747887a131e5d141de9ad7d8554382a36f) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update permission"
@@ -54,30 +58,11 @@ val Razy = human {
 **2024-09-19** — pushed [839854b](https://github.com/arrazyfathan/arrazyfathan/commits/839854b833bd4cdc0593936f4266b7b757145054) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow for wakatime"
 
 **2024-09-18** — pushed [96597d1](https://github.com/arrazyfathan/arrazyfathan/commits/96597d1eba36c794e8fbf013e43baba7353fa78d) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow"
-
-**2024-09-18** — pushed [b4c517d](https://github.com/arrazyfathan/arrazyfathan/commits/b4c517d2b80f8f9a146ddfaf47ac776174ce1f6a) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Add wakatime"
-
-**2024-09-12** — pushed [a12e7b3](https://github.com/arrazyfathan/arrazyfathan/commits/a12e7b37af2738934309e833d3e513a55422a813) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update github workflow"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 25 September 2024
-
-Total Time: 22 hrs 24 mins
-
-Kotlin                 11 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.19 %
-XML                    4 hrs 54 mins   ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.38 %
-Image (svg)            1 hr 53 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.25 %
-YAML                   1 hr 20 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.83 %
-Groovy                 39 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.87 %
-HTTP Request           39 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.87 %
-Other                  34 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.48 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
