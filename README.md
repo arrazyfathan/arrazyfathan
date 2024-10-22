@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-10-20** — pushed [9e8d802](https://github.com/arrazyfathan/tomtommaps-playground/commits/9e8d80278aa83c362ce702cf12f8c7e607122af1) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "TODO: Fixing map style changer"
+
 **2024-10-17** — pushed [2676716](https://github.com/arrazyfathan/tomtommaps-playground/commits/26767162ff83a565799fc392d74949bc11f3313b) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Add user location"
 
 **2024-10-17** — pushed [fb401b9](https://github.com/arrazyfathan/tomtommaps-playground/commits/fb401b905024717f183c3f41771a359352d8b77b) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Add map style"
@@ -56,24 +58,11 @@ val Razy = human {
 **2024-09-25** — pushed [c216eec](https://github.com/arrazyfathan/arrazyfathan/commits/c216eec71936c8dea7596b046f3b5752db049b2e) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Downgrade java version to 17"
 
 **2024-09-25** — pushed [02c5d2f](https://github.com/arrazyfathan/arrazyfathan/commits/02c5d2fa8d6c886224206d6937b3bc384dc155a2) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change execute to update readme"
-
-**2024-09-25** — pushed [4045a61](https://github.com/arrazyfathan/arrazyfathan/commits/4045a61f4114e06ebb0b1ec648fda80a3daece44) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change cron schedule"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 19 October 2024
-
-Total Time: 56 hrs 59 mins
-
-Kotlin                 28 hrs 48 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.12 %
-XML                    7 hrs 21 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.77 %
-Other                  5 hrs 29 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.78 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
