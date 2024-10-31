@@ -39,41 +39,24 @@ val Razy = human {
 
 ## GitHub Activity
 
-**2024-10-20** — pushed [9e8d802](https://github.com/arrazyfathan/tomtommaps-playground/commits/9e8d80278aa83c362ce702cf12f8c7e607122af1) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "TODO: Fixing map style changer"
-
-**2024-10-17** — pushed [2676716](https://github.com/arrazyfathan/tomtommaps-playground/commits/26767162ff83a565799fc392d74949bc11f3313b) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Add user location"
-
-**2024-10-17** — pushed [fb401b9](https://github.com/arrazyfathan/tomtommaps-playground/commits/fb401b905024717f183c3f41771a359352d8b77b) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Add map style"
-
-**2024-10-17** — pushed [1b3e53e](https://github.com/arrazyfathan/tomtommaps-playground/commits/1b3e53e4b4cef11d217413ac8003391bca55a243) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Configure project dependencies"
-
-**2024-10-17** — pushed [4d33557](https://github.com/arrazyfathan/tomtommaps-playground/commits/4d3355752e05b6fa74d8ce82be050957236e91d4) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Add tomtom maps api key to BuildConfig"
-
-**2024-10-16** — pushed [037b002](https://github.com/arrazyfathan/tomtommaps-playground/commits/037b002572c2c5b9522ef34571226761075bede7) to [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground): "Add README.md"
-
-**2024-10-16** — created branch `main` on [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground)
-
-**2024-10-16** — created repository on [arrazyfathan/tomtommaps-playground](https://github.com/arrazyfathan/tomtommaps-playground)
+**2024-10-30** — created repository on [arrazyfathan/mapbox-playground](https://github.com/arrazyfathan/mapbox-playground)
 
 **2024-09-25** — pushed [c216eec](https://github.com/arrazyfathan/arrazyfathan/commits/c216eec71936c8dea7596b046f3b5752db049b2e) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Downgrade java version to 17"
 
 **2024-09-25** — pushed [02c5d2f](https://github.com/arrazyfathan/arrazyfathan/commits/02c5d2fa8d6c886224206d6937b3bc384dc155a2) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change execute to update readme"
+
+**2024-09-25** — pushed [4045a61](https://github.com/arrazyfathan/arrazyfathan/commits/4045a61f4114e06ebb0b1ec648fda80a3daece44) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change cron schedule"
+
+**2024-09-25** — pushed [a0179b7](https://github.com/arrazyfathan/arrazyfathan/commits/a0179b747887a131e5d141de9ad7d8554382a36f) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update permission"
+
+**2024-09-25** — pushed [cdf3c06](https://github.com/arrazyfathan/arrazyfathan/commits/cdf3c0612676df906f19dbb728ad1ece6f1517de) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Fixing indentation ci.yml"
+
+**2024-09-25** — pushed [9ce0950](https://github.com/arrazyfathan/arrazyfathan/commits/9ce0950a108a0fc99359629d1c79d7dee2df8413) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Add update_readme.sh"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 28 October 2024
-
-Total Time: 60 hrs 35 mins
-
-Kotlin                 31 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.39 %
-XML                    7 hrs 51 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.88 %
-Other                  5 hrs 29 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.32 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
