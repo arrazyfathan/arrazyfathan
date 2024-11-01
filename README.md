@@ -48,26 +48,11 @@ val Razy = human {
 **2024-09-25** — pushed [4045a61](https://github.com/arrazyfathan/arrazyfathan/commits/4045a61f4114e06ebb0b1ec648fda80a3daece44) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change cron schedule"
 
 **2024-09-25** — pushed [a0179b7](https://github.com/arrazyfathan/arrazyfathan/commits/a0179b747887a131e5d141de9ad7d8554382a36f) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update permission"
-
-**2024-09-25** — pushed [cdf3c06](https://github.com/arrazyfathan/arrazyfathan/commits/cdf3c0612676df906f19dbb728ad1ece6f1517de) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Fixing indentation ci.yml"
-
-**2024-09-25** — pushed [9ce0950](https://github.com/arrazyfathan/arrazyfathan/commits/9ce0950a108a0fc99359629d1c79d7dee2df8413) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Add update_readme.sh"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 29 October 2024
-
-Total Time: 60 hrs 48 mins
-
-Kotlin                 31 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.55 %
-XML                    7 hrs 51 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.85 %
-Other                  5 hrs 29 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.29 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
