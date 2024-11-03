@@ -53,17 +53,6 @@ val Razy = human {
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 31 October 2024
-
-Total Time: 63 hrs 40 mins
-
-Kotlin                 32 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.54 %
-XML                    8 hrs 33 mins   ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.38 %
-Other                  5 hrs 30 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.95 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
