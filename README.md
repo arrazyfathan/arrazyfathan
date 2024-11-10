@@ -44,24 +44,11 @@ val Razy = human {
 **2024-09-25** — pushed [c216eec](https://github.com/arrazyfathan/arrazyfathan/commits/c216eec71936c8dea7596b046f3b5752db049b2e) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Downgrade java version to 17"
 
 **2024-09-25** — pushed [02c5d2f](https://github.com/arrazyfathan/arrazyfathan/commits/02c5d2fa8d6c886224206d6937b3bc384dc155a2) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change execute to update readme"
-
-**2024-09-25** — pushed [4045a61](https://github.com/arrazyfathan/arrazyfathan/commits/4045a61f4114e06ebb0b1ec648fda80a3daece44) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change cron schedule"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 07 November 2024
-
-Total Time: 70 hrs 10 mins
-
-Kotlin                 37 hrs 56 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.13 %
-XML                    9 hrs 8 mins    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.07 %
-Other                  5 hrs 30 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.27 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
