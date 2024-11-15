@@ -42,24 +42,11 @@ val Razy = human {
 **2024-10-30** — created repository on [arrazyfathan/mapbox-playground](https://github.com/arrazyfathan/mapbox-playground)
 
 **2024-09-25** — pushed [c216eec](https://github.com/arrazyfathan/arrazyfathan/commits/c216eec71936c8dea7596b046f3b5752db049b2e) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Downgrade java version to 17"
-
-**2024-09-25** — pushed [02c5d2f](https://github.com/arrazyfathan/arrazyfathan/commits/02c5d2fa8d6c886224206d6937b3bc384dc155a2) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Change execute to update readme"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 12 November 2024
-
-Total Time: 71 hrs 17 mins
-
-Kotlin                 38 hrs 11 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.74 %
-XML                    9 hrs 8 mins    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.90 %
-Other                  5 hrs 30 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.16 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
