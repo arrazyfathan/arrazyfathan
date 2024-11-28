@@ -39,23 +39,22 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-11-27** — pushed [3853913](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/38539132edda6cc47fbeb8d03075018bde2d8504) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Remove secret config"
+
+**2024-11-27** — pushed [2ae7476](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/2ae7476261c4d242685c2d1b0711aa529806aada) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Modified secret props"
+
+**2024-11-27** — pushed [fc12599](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/fc12599d6cb4fa09b5a90fa4b33a9498d09c4c5f) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Setup build config for secret props"
+
+**2024-11-27** — created branch `main` on [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform)
+
+**2024-11-27** — created repository on [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform)
+
 **2024-10-30** — created repository on [arrazyfathan/mapbox-playground](https://github.com/arrazyfathan/mapbox-playground)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 25 November 2024
-
-Total Time: 79 hrs 8 mins
-
-Kotlin                 43 hrs 7 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.94 %
-XML                    10 hrs 45 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.70 %
-Other                  5 hrs 30 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.50 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
