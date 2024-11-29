@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-11-27** — pushed [7ddb2d3](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/7ddb2d3c1fd338ab08cdfead0c467917bcc51900) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Config ktor for networking"
+
 **2024-11-27** — pushed [3853913](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/38539132edda6cc47fbeb8d03075018bde2d8504) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Remove secret config"
 
 **2024-11-27** — pushed [2ae7476](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/2ae7476261c4d242685c2d1b0711aa529806aada) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Modified secret props"
@@ -55,17 +57,6 @@ val Razy = human {
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 26 November 2024
-
-Total Time: 79 hrs 30 mins
-
-Kotlin                 43 hrs 25 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.07 %
-XML                    10 hrs 45 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.65 %
-Other                  5 hrs 30 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.48 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
