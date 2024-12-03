@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-12-01** — pushed [e20afff](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/e20afffb44154fe5dfa8bc7df997f0e54986e02a) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service for register"
+
 **2024-11-30** — pushed [596681c](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/596681cde505b4481c0734455245e3a0ff40a4b3) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Modify paging info response"
 
 **2024-11-30** — pushed [e5f1c71](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/e5f1c71d7daa6d06ff76d31ac45464a3faffa783) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add filter using query method"
@@ -56,24 +58,11 @@ val Razy = human {
 **2024-11-29** — created branch `main` on [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot)
 
 **2024-11-29** — created repository on [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot)
-
-**2024-11-27** — pushed [7ddb2d3](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/7ddb2d3c1fd338ab08cdfead0c467917bcc51900) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Config ktor for networking"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 30 November 2024
-
-Total Time: 82 hrs 12 mins
-
-Kotlin                 45 hrs 13 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.56 %
-XML                    10 hrs 45 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.26 %
-Other                  5 hrs 30 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.28 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
