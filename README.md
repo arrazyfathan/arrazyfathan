@@ -39,6 +39,10 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-12-03** — pushed [0724099](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/07240995b2c211d89cb46ca4739e97a53c4acf6f) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add auth filter and custom user detail service"
+
+**2024-12-03** — pushed [599758f](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/599758f791110f953d71706ad2023dbf4f5bbc95) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add jwt utils"
+
 **2024-12-01** — pushed [e20afff](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/e20afffb44154fe5dfa8bc7df997f0e54986e02a) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service for register"
 
 **2024-11-30** — pushed [596681c](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/596681cde505b4481c0734455245e3a0ff40a4b3) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Modify paging info response"
@@ -54,26 +58,11 @@ val Razy = human {
 **2024-11-29** — pushed [0c1ca5a](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/0c1ca5adba7f80329a6652ae9c81c69addaac85d) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Change url database and try get product"
 
 **2024-11-29** — pushed [a296dd9](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/a296dd96ae1e54604a17cdd490cce56e9c386953) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add dependency jpa and postgres"
-
-**2024-11-29** — created branch `main` on [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot)
-
-**2024-11-29** — created repository on [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 02 December 2024
-
-Total Time: 83 hrs 42 mins
-
-Kotlin                 45 hrs 43 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.26 %
-XML                    10 hrs 45 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.06 %
-Other                  5 hrs 30 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.17 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
