@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-12-09** — pushed [c205d1d](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/c205d1d1e9bf88ca9b848ed2b133256f12e72750) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Update auth filter and auth controller"
+
 **2024-12-04** — pushed [fc1bff7](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/fc1bff7f6961b6500974ccbfc5bb93a5adc8cd76) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add configuration and auth service login"
 
 **2024-12-03** — pushed [0724099](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/07240995b2c211d89cb46ca4739e97a53c4acf6f) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add auth filter and custom user detail service"
@@ -56,24 +58,11 @@ val Razy = human {
 **2024-11-29** — pushed [a5f0d35](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/a5f0d35641f8ef632abf0b8a103207a3dfe8157d) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add base response for pagination"
 
 **2024-11-29** — pushed [20148d4](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/20148d484c4ebd1eefda6d997a6c5679f49e95e3) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add relation table product and category"
-
-**2024-11-29** — pushed [0c1ca5a](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/0c1ca5adba7f80329a6652ae9c81c69addaac85d) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Change url database and try get product"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 08 December 2024
-
-Total Time: 86 hrs 18 mins
-
-Kotlin                 46 hrs 10 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.30 %
-XML                    11 hrs 40 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.72 %
-Other                  5 hrs 30 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
