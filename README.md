@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2024-12-13** — pushed [0a4be73](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/0a4be7365790faf0d5ccd0332a0e16633237219b) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service and user controller"
+
 **2024-12-09** — pushed [c205d1d](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/c205d1d1e9bf88ca9b848ed2b133256f12e72750) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Update auth filter and auth controller"
 
 **2024-12-04** — pushed [fc1bff7](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/fc1bff7f6961b6500974ccbfc5bb93a5adc8cd76) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add configuration and auth service login"
@@ -56,24 +58,11 @@ val Razy = human {
 **2024-11-30** — pushed [f1c58ab](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/f1c58abab5ebf2fa1470f1c1c2a5249f4fd670a6) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add filter by name using naming method"
 
 **2024-11-29** — pushed [a5f0d35](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/a5f0d35641f8ef632abf0b8a103207a3dfe8157d) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add base response for pagination"
-
-**2024-11-29** — pushed [20148d4](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/20148d484c4ebd1eefda6d997a6c5679f49e95e3) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add relation table product and category"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 11 December 2024
-
-Total Time: 90 hrs 57 mins
-
-Kotlin                 48 hrs 26 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.22 %
-XML                    13 hrs 6 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.59 %
-Other                  5 hrs 30 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.71 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
