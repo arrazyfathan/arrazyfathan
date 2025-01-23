@@ -39,6 +39,19 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-01-21** — pushed [613209f](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/613209faccd8a4207ab64861aa0644ce4a8049cb) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Improve network call handling with StateFlow and composable functions
+
+Refactored network call handling to use StateFlow and composable functions for better state management.
+This change improves the readability and maintainability of the network call logic.
+- Introduced composable functions for handling success, loading, failure, and idle states.
+- Removed LaunchedEffect and unnecessary mutable states.
+- Moved state-based UI logic into dedicated composable functions."
+
+**2025-01-21** — pushed [7ecebe1](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/7ecebe1d475cf8eb4b61cdd0ea302b686c936c8c) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Use StateFlow and reduce function for network calls
+
+Refactored network calls to use StateFlow and a reduce function for better state management.
+This change improves the handling of network responses and provides a more structured way to handle loading, success, and error states."
+
 **2024-12-13** — pushed [0a4be73](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/0a4be7365790faf0d5ccd0332a0e16633237219b) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service and user controller"
 
 **2024-12-09** — pushed [c205d1d](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/c205d1d1e9bf88ca9b848ed2b133256f12e72750) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Update auth filter and auth controller"
@@ -54,26 +67,11 @@ val Razy = human {
 **2024-11-30** — pushed [596681c](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/596681cde505b4481c0734455245e3a0ff40a4b3) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Modify paging info response"
 
 **2024-11-30** — pushed [e5f1c71](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/e5f1c71d7daa6d06ff76d31ac45464a3faffa783) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add filter using query method"
-
-**2024-11-30** — pushed [f1c58ab](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/f1c58abab5ebf2fa1470f1c1c2a5249f4fd670a6) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add filter by name using naming method"
-
-**2024-11-29** — pushed [a5f0d35](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/a5f0d35641f8ef632abf0b8a103207a3dfe8157d) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add base response for pagination"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 20 January 2025
-
-Total Time: 129 hrs 48 mins
-
-Kotlin                 74 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.06 %
-XML                    21 hrs 4 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.56 %
-Other                  5 hrs 37 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.15 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
