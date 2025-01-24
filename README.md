@@ -39,6 +39,20 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-01-22** — pushed [66c9625](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/66c9625c4a17f8781a0f3f93d6aa4b1af2199028) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Introduce BaseViewModel and update AppViewModel"
+
+**2025-01-22** — pushed [5a0bc16](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/5a0bc16c2c5745c50b1afd1a111c62fe65b5d75a) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Use AppUiState and collectLatest for network calls
+
+Refactored network calls to use collectLatest and AppUiState for better state management.
+This change improves the handling of network responses and provides a more structured way to handle loading, success, and error states.
+Removed unnecessary IOS build configuration."
+
+**2025-01-22** — pushed [6e231e1](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/6e231e11c1feb79b03c3994d5d584592359adae0) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Migrate network call to ViewModel
+
+Moved the network call logic from the composable function to the AppViewModel.
+This change improves the separation of concerns and makes the code more maintainable.
+It also introduces the AppIntent sealed class to handle different actions within the ViewModel."
+
 **2025-01-21** — pushed [613209f](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/613209faccd8a4207ab64861aa0644ce4a8049cb) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Improve network call handling with StateFlow and composable functions
 
 Refactored network call handling to use StateFlow and composable functions for better state management.
@@ -61,28 +75,11 @@ This change improves the handling of network responses and provides a more struc
 **2024-12-03** — pushed [0724099](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/07240995b2c211d89cb46ca4739e97a53c4acf6f) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add auth filter and custom user detail service"
 
 **2024-12-03** — pushed [599758f](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/599758f791110f953d71706ad2023dbf4f5bbc95) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add jwt utils"
-
-**2024-12-01** — pushed [e20afff](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/e20afffb44154fe5dfa8bc7df997f0e54986e02a) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service for register"
-
-**2024-11-30** — pushed [596681c](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/596681cde505b4481c0734455245e3a0ff40a4b3) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Modify paging info response"
-
-**2024-11-30** — pushed [e5f1c71](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/e5f1c71d7daa6d06ff76d31ac45464a3faffa783) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add filter using query method"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 20 January 2025
-
-Total Time: 129 hrs 48 mins
-
-Kotlin                 74 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.06 %
-XML                    21 hrs 4 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.56 %
-Other                  5 hrs 37 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.15 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
