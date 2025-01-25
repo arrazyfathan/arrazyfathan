@@ -39,6 +39,12 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-01-24** — pushed [d7cb2fe](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/d7cb2fe9463df2feb24e007b7fd5293f233d4611) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Feat: Implement basic navigation"
+
+**2025-01-24** — pushed [aefc2ae](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/aefc2ae4330d56324a0d90936dffb22022adce3e) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Restructure project packages"
+
+**2025-01-24** — pushed [7e565c7](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/7e565c73c5de74ef45055c056a2b3d034570c08c) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Move network call logic to BaseRepository"
+
 **2025-01-22** — pushed [66c9625](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/66c9625c4a17f8781a0f3f93d6aa4b1af2199028) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Introduce BaseViewModel and update AppViewModel"
 
 **2025-01-22** — pushed [5a0bc16](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/5a0bc16c2c5745c50b1afd1a111c62fe65b5d75a) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Use AppUiState and collectLatest for network calls
@@ -69,28 +75,11 @@ This change improves the handling of network responses and provides a more struc
 **2024-12-13** — pushed [0a4be73](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/0a4be7365790faf0d5ccd0332a0e16633237219b) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service and user controller"
 
 **2024-12-09** — pushed [c205d1d](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/c205d1d1e9bf88ca9b848ed2b133256f12e72750) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Update auth filter and auth controller"
-
-**2024-12-04** — pushed [fc1bff7](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/fc1bff7f6961b6500974ccbfc5bb93a5adc8cd76) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add configuration and auth service login"
-
-**2024-12-03** — pushed [0724099](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/07240995b2c211d89cb46ca4739e97a53c4acf6f) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add auth filter and custom user detail service"
-
-**2024-12-03** — pushed [599758f](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/599758f791110f953d71706ad2023dbf4f5bbc95) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add jwt utils"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 22 January 2025
-
-Total Time: 131 hrs 12 mins
-
-Kotlin                 75 hrs 54 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.48 %
-XML                    21 hrs 4 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.40 %
-Other                  5 hrs 37 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.11 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
