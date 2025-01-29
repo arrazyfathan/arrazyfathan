@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-01-27** — pushed [54f9efa](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/54f9efaa3684a51cbf06a508edcdcc15ea731b46) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Implement Navigation Compose"
+
 **2025-01-24** — pushed [d7cb2fe](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/d7cb2fe9463df2feb24e007b7fd5293f233d4611) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Feat: Implement basic navigation"
 
 **2025-01-24** — pushed [aefc2ae](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/aefc2ae4330d56324a0d90936dffb22022adce3e) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Restructure project packages"
@@ -73,24 +75,11 @@ Refactored network calls to use StateFlow and a reduce function for better state
 This change improves the handling of network responses and provides a more structured way to handle loading, success, and error states."
 
 **2024-12-13** — pushed [0a4be73](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/0a4be7365790faf0d5ccd0332a0e16633237219b) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Add user service and user controller"
-
-**2024-12-09** — pushed [c205d1d](https://github.com/arrazyfathan/ecommerce-spring-boot/commits/c205d1d1e9bf88ca9b848ed2b133256f12e72750) to [arrazyfathan/ecommerce-spring-boot](https://github.com/arrazyfathan/ecommerce-spring-boot): "Update auth filter and auth controller"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 26 January 2025
-
-Total Time: 133 hrs 44 mins
-
-Kotlin                 78 hrs 23 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.24 %
-XML                    21 hrs 4 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.12 %
-Other                  5 hrs 37 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.03 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
