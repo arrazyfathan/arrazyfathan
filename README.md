@@ -39,6 +39,10 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-02-02** — pushed [b9ec322](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/b9ec322a0db81d11be1dbeebc2849f2107fb58a3) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "feat: Implement reversed location search"
+
+**2025-02-02** — pushed [b14eb9b](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/b14eb9b26bffceb1790fdfc8df32531aa82107f4) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Implement Navigation with Appyx"
+
 **2025-01-30** — pushed [3a5e8b1](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/3a5e8b197856a15a23a3b50252fa820efe3f779c) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "feat: Add API test to ScreenA"
 
 **2025-01-30** — pushed [4d28e29](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/4d28e29e7f1a3d49473848a5ff3c4d042fe51e23) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Fix: Resolve KMM CocoaPods integration issues"
@@ -54,26 +58,11 @@ val Razy = human {
 **2025-01-29** — pushed [10069a9](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/10069a99496ae71afa70e0ee3a9cb735b29616f9) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Implement Appyx for navigation"
 
 **2025-01-27** — pushed [54f9efa](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/54f9efaa3684a51cbf06a508edcdcc15ea731b46) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Implement Navigation Compose"
-
-**2025-01-24** — pushed [d7cb2fe](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/d7cb2fe9463df2feb24e007b7fd5293f233d4611) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Feat: Implement basic navigation"
-
-**2025-01-24** — pushed [aefc2ae](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/aefc2ae4330d56324a0d90936dffb22022adce3e) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "Refactor: Restructure project packages"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 01 February 2025
-
-Total Time: 139 hrs 11 mins
-
-Kotlin                 82 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.95 %
-XML                    21 hrs 13 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.66 %
-Other                  5 hrs 37 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.88 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
