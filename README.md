@@ -39,27 +39,16 @@ val Razy = human {
 
 ## GitHub Activity
 
-**2025-02-03** — pushed [64d14c8](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/64d14c879c76193503b6b6ffbb53d4194bc0ce3d) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "feat: Initialize Google Maps SDK for iOS"
+**2025-03-13** — pushed [8d14556](https://github.com/arrazyfathan/cv/commits/8d14556f5be870055e70857b363722a7613cd56f) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Add tel property"
 
-**2025-02-03** — pushed [aa9ecb2](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/aa9ecb24fd71d947c5370649a3c2d24a69e148fe) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "feat: Add Google Maps Compose integration on IOS Platform"
+**2025-03-13** — pushed [ebc2304](https://github.com/arrazyfathan/cv/commits/ebc2304d8209022a8902d7495a94eeac4ba1ddf8) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update content resume"
 
-**2025-02-03** — pushed [0de7617](https://github.com/arrazyfathan/MapsComposeMultiplatform/commits/0de7617502e12e94e1f1af7d387907c3ab30f9af) to [arrazyfathan/MapsComposeMultiplatform](https://github.com/arrazyfathan/MapsComposeMultiplatform): "feat: Add Google Maps dependencies and API key"
+**2025-03-07** — pushed [cb0baa5](https://github.com/arrazyfathan/arrazyfathan.github.io/commits/cb0baa584def71ec3481255b19e1b5e3cac252d9) to [arrazyfathan/arrazyfathan.github.io](https://github.com/arrazyfathan/arrazyfathan.github.io): "Add folder .well-known for testing purpose"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 01 March 2025
-
-Total Time: 168 hrs 21 mins
-
-Kotlin                 103 hrs 23 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.42 %
-XML                    23 hrs 5 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.27 %
-Other                  5 hrs 39 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.25 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
