@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-03-14** — pushed [30dd050](https://github.com/arrazyfathan/arrazyfathan/commits/30dd050ef839b5edf49f26a1c5705f8e41042141) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update action/cache to version 4"
+
 **2025-03-13** — pushed [8d14556](https://github.com/arrazyfathan/cv/commits/8d14556f5be870055e70857b363722a7613cd56f) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Add tel property"
 
 **2025-03-13** — pushed [ebc2304](https://github.com/arrazyfathan/cv/commits/ebc2304d8209022a8902d7495a94eeac4ba1ddf8) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update content resume"
@@ -49,19 +51,6 @@ val Razy = human {
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 13 March 2025
-
-Total Time: 184 hrs 42 mins
-
-Kotlin                 106 hrs 1 min   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.69 %
-XML                    23 hrs 31 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.36 %
-JavaScript             12 hrs 26 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 %
-Groovy                 6 hrs 10 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.24 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.99 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
