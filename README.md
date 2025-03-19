@@ -39,6 +39,12 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-03-17** — pushed [1a3c9ac](https://github.com/arrazyfathan/cv/commits/1a3c9acabf3b0dc30a4b76c1c00da544e0603453) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Add some projects"
+
+**2025-03-17** — pushed [a222c80](https://github.com/arrazyfathan/cv/commits/a222c80512dc92a44033185df5e99d66e2093da9) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change content name"
+
+**2025-03-17** — pushed [4d877c6](https://github.com/arrazyfathan/cv/commits/4d877c61a9ca2c84f7737b6352fc1c3f7499b4e6) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update skills section and adjust some component"
+
 **2025-03-17** — pushed [2306bf0](https://github.com/arrazyfathan/cv/commits/2306bf0551653de6465093a678430be6502ef83f) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update personal website url"
 
 **2025-03-17** — pushed [38e6286](https://github.com/arrazyfathan/cv/commits/38e62867d61aab86a575601aa93000dcfa80b34b) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update resume data"
@@ -52,30 +58,11 @@ val Razy = human {
 **2025-03-17** — pushed [9f0bf03](https://github.com/arrazyfathan/cv/commits/9f0bf03a4d544d6edf3f1cece73340fdeeecea27) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Chage favicon"
 
 **2025-03-17** — pushed [8ee27d6](https://github.com/arrazyfathan/cv/commits/8ee27d6a1e3b9cf204100c148c0affb87cf0eb21) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change open graph image"
-
-**2025-03-14** — pushed [30dd050](https://github.com/arrazyfathan/arrazyfathan/commits/30dd050ef839b5edf49f26a1c5705f8e41042141) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update action/cache to version 4"
-
-**2025-03-13** — pushed [8d14556](https://github.com/arrazyfathan/cv/commits/8d14556f5be870055e70857b363722a7613cd56f) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Add tel property"
-
-**2025-03-13** — pushed [ebc2304](https://github.com/arrazyfathan/cv/commits/ebc2304d8209022a8902d7495a94eeac4ba1ddf8) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update content resume"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 17 March 2025
-
-Total Time: 186 hrs 36 mins
-
-Kotlin                 106 hrs 1 min   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.14 %
-XML                    23 hrs 31 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.23 %
-JavaScript             12 hrs 46 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.65 %
-Groovy                 6 hrs 10 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.21 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.96 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
