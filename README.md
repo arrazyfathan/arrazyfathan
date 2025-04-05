@@ -39,6 +39,8 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-04-03** — pushed [1871a23](https://github.com/arrazyfathan/cv/commits/1871a23940144a1d8d74fc4871c3bed9060fe75e) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change some content"
+
 **2025-03-27** — pushed [099d606](https://github.com/arrazyfathan/arrazyfathan/commits/099d606180371f717c2bf41f080715cc415c9adf) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update ci.yml"
 
 **2025-03-26** — pushed [0898554](https://github.com/arrazyfathan/cv/commits/08985542a15b8f344f71e80545444ab48f019a92) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Fixing og image extension"
@@ -56,31 +58,11 @@ val Razy = human {
 **2025-03-17** — pushed [a222c80](https://github.com/arrazyfathan/cv/commits/a222c80512dc92a44033185df5e99d66e2093da9) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change content name"
 
 **2025-03-17** — pushed [4d877c6](https://github.com/arrazyfathan/cv/commits/4d877c61a9ca2c84f7737b6352fc1c3f7499b4e6) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update skills section and adjust some component"
-
-**2025-03-17** — pushed [2306bf0](https://github.com/arrazyfathan/cv/commits/2306bf0551653de6465093a678430be6502ef83f) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update personal website url"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 03 April 2025
-
-Total Time: 218 hrs 15 mins
-
-Kotlin                 110 hrs 9 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.19 %
-XML                    23 hrs 47 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.62 %
-JavaScript             22 hrs 24 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 %
-TypeScript             8 hrs 21 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.73 %
-EJS                    8 hrs 4 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 %
-Groovy                 6 hrs 17 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.81 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.54 %
-HTTP Request           4 hrs 13 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.88 %
-Dart                   4 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.87 %
-Gradle                 3 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.77 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
