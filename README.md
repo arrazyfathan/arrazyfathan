@@ -39,6 +39,12 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-04-08** — pushed [04e0024](https://github.com/arrazyfathan/typescript-restful-api/commits/04e0024925d25b52530d1af983e1dd1608552a0c) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Add user api spec"
+
+**2025-04-07** — created branch `main` on [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api)
+
+**2025-04-07** — created repository on [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api)
+
 **2025-04-03** — pushed [1871a23](https://github.com/arrazyfathan/cv/commits/1871a23940144a1d8d74fc4871c3bed9060fe75e) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change some content"
 
 **2025-03-27** — pushed [099d606](https://github.com/arrazyfathan/arrazyfathan/commits/099d606180371f717c2bf41f080715cc415c9adf) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "Update ci.yml"
@@ -52,35 +58,11 @@ val Razy = human {
 **2025-03-21** — pushed [3a2ef76](https://github.com/arrazyfathan/cv/commits/3a2ef76cf74002dbc006abab7fe2d94a78f23235) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Add meta tag for verification webmaster tools"
 
 **2025-03-21** — pushed [7651521](https://github.com/arrazyfathan/cv/commits/7651521d88fec904ba04a85dd385dd90dbef1d58) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change meta description"
-
-**2025-03-17** — pushed [1a3c9ac](https://github.com/arrazyfathan/cv/commits/1a3c9acabf3b0dc30a4b76c1c00da544e0603453) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Add some projects"
-
-**2025-03-17** — pushed [a222c80](https://github.com/arrazyfathan/cv/commits/a222c80512dc92a44033185df5e99d66e2093da9) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change content name"
-
-**2025-03-17** — pushed [4d877c6](https://github.com/arrazyfathan/cv/commits/4d877c61a9ca2c84f7737b6352fc1c3f7499b4e6) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Update skills section and adjust some component"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 07 April 2025
-
-Total Time: 221 hrs 5 mins
-
-Kotlin                 110 hrs 9 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.57 %
-XML                    23 hrs 47 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.49 %
-JavaScript             22 hrs 24 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.88 %
-TypeScript             11 hrs 3 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.88 %
-EJS                    8 hrs 4 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.56 %
-Groovy                 6 hrs 17 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.77 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.51 %
-HTTP Request           4 hrs 13 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 %
-Dart                   4 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 %
-Gradle                 3 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.75 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
