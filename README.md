@@ -39,6 +39,16 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-04-11** — pushed [403e50e](https://github.com/arrazyfathan/typescript-restful-api/commits/403e50ed61137f64e728f8cdd4dd43dccaaf2b14) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add update contact api"
+
+**2025-04-11** — pushed [e583202](https://github.com/arrazyfathan/typescript-restful-api/commits/e583202795ab5c7cc4a19860bc1f80217b941093) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add nodemon.json"
+
+**2025-04-11** — pushed [77a2a7f](https://github.com/arrazyfathan/typescript-restful-api/commits/77a2a7f52cf7e2c12da3c8f236eade6ba17c160e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat : add get contact by id api"
+
+**2025-04-10** — pushed [9b9b8d2](https://github.com/arrazyfathan/typescript-restful-api/commits/9b9b8d240863d731a1b005c79f891af6e6061f69) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat : add create contact api"
+
+**2025-04-10** — pushed [8e521ca](https://github.com/arrazyfathan/typescript-restful-api/commits/8e521cab5fce6ec3be892c46202b8c3761ac4264) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add user logout api"
+
 **2025-04-09** — pushed [c8d32ad](https://github.com/arrazyfathan/typescript-restful-api/commits/c8d32ade7f559c02015a78098dd4e0a4c4d0af27) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: register user api"
 
 **2025-04-09** — pushed [2b8bf9f](https://github.com/arrazyfathan/typescript-restful-api/commits/2b8bf9f29c474019c0282ac74ec2acd781a405ad) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Setup project logging, express and prisma client"
@@ -48,39 +58,11 @@ val Razy = human {
 **2025-04-09** — pushed [8614d6d](https://github.com/arrazyfathan/typescript-restful-api/commits/8614d6dda24971142efd0a16d8ac31db84100277) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Setup prisma"
 
 **2025-04-09** — pushed [b050c35](https://github.com/arrazyfathan/typescript-restful-api/commits/b050c35c9cdd83c53aa9dc47fafc70c275079a05) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Add address api spec"
-
-**2025-04-09** — pushed [da64f3a](https://github.com/arrazyfathan/typescript-restful-api/commits/da64f3aacbba2a12a6800f45dc6cfdf36a4182f1) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Add contact api spec"
-
-**2025-04-08** — pushed [04e0024](https://github.com/arrazyfathan/typescript-restful-api/commits/04e0024925d25b52530d1af983e1dd1608552a0c) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Add user api spec"
-
-**2025-04-07** — created branch `main` on [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api)
-
-**2025-04-07** — created repository on [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api)
-
-**2025-04-03** — pushed [1871a23](https://github.com/arrazyfathan/cv/commits/1871a23940144a1d8d74fc4871c3bed9060fe75e) to [arrazyfathan/cv](https://github.com/arrazyfathan/cv): "Change some content"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 10 April 2025
-
-Total Time: 229 hrs 5 mins
-
-Kotlin                 110 hrs 29 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.06 %
-XML                    23 hrs 47 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.14 %
-JavaScript             22 hrs 28 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.57 %
-TypeScript             15 hrs 25 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.57 %
-EJS                    8 hrs 4 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.44 %
-Groovy                 6 hrs 17 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.68 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.43 %
-HTTP Request           4 hrs 19 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.84 %
-Dart                   4 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.79 %
-Gradle                 3 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.69 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
