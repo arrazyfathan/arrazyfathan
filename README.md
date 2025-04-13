@@ -39,6 +39,16 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-04-12** — pushed [73f5358](https://github.com/arrazyfathan/typescript-restful-api/commits/73f535809d464aa8ed02c61cbc8aa0d520d1f23e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md:"
+
+**2025-04-12** — pushed [eb880d5](https://github.com/arrazyfathan/typescript-restful-api/commits/eb880d5a1a211add1c2014446cea989d4a9b13a0) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add get list addresses api"
+
+**2025-04-12** — pushed [77de7de](https://github.com/arrazyfathan/typescript-restful-api/commits/77de7dec37f55f89df2e46862015c050047d9661) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add remove address api"
+
+**2025-04-12** — pushed [efa1606](https://github.com/arrazyfathan/typescript-restful-api/commits/efa1606b094c9b4148762c1a30df5fc3a0129e87) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add update address api"
+
+**2025-04-12** — pushed [d9c86be](https://github.com/arrazyfathan/typescript-restful-api/commits/d9c86be0675a711a58609706071bcc8a16e16877) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add get contact api"
+
 **2025-04-11** — pushed [f0c838e](https://github.com/arrazyfathan/typescript-restful-api/commits/f0c838ee5476ccf119ea04a37d7742651e69966e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add create address api"
 
 **2025-04-11** — pushed [e91cb15](https://github.com/arrazyfathan/typescript-restful-api/commits/e91cb15885335565eda7bdfe869f935d44aa671b) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add search contact api"
@@ -48,39 +58,11 @@ val Razy = human {
 **2025-04-11** — pushed [403e50e](https://github.com/arrazyfathan/typescript-restful-api/commits/403e50ed61137f64e728f8cdd4dd43dccaaf2b14) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add update contact api"
 
 **2025-04-11** — pushed [e583202](https://github.com/arrazyfathan/typescript-restful-api/commits/e583202795ab5c7cc4a19860bc1f80217b941093) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add nodemon.json"
-
-**2025-04-11** — pushed [77a2a7f](https://github.com/arrazyfathan/typescript-restful-api/commits/77a2a7f52cf7e2c12da3c8f236eade6ba17c160e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat : add get contact by id api"
-
-**2025-04-10** — pushed [9b9b8d2](https://github.com/arrazyfathan/typescript-restful-api/commits/9b9b8d240863d731a1b005c79f891af6e6061f69) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat : add create contact api"
-
-**2025-04-10** — pushed [8e521ca](https://github.com/arrazyfathan/typescript-restful-api/commits/8e521cab5fce6ec3be892c46202b8c3761ac4264) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add user logout api"
-
-**2025-04-09** — pushed [c8d32ad](https://github.com/arrazyfathan/typescript-restful-api/commits/c8d32ade7f559c02015a78098dd4e0a4c4d0af27) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: register user api"
-
-**2025-04-09** — pushed [2b8bf9f](https://github.com/arrazyfathan/typescript-restful-api/commits/2b8bf9f29c474019c0282ac74ec2acd781a405ad) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "Setup project logging, express and prisma client"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 11 April 2025
-
-Total Time: 233 hrs 40 mins
-
-Kotlin                 110 hrs 29 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.16 %
-XML                    23 hrs 47 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.94 %
-JavaScript             22 hrs 29 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.40 %
-TypeScript             19 hrs 45 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.26 %
-EJS                    8 hrs 4 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.38 %
-Groovy                 6 hrs 17 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.63 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.38 %
-HTTP Request           4 hrs 19 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.81 %
-Dart                   4 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.75 %
-Gradle                 3 hrs 57 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.66 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
