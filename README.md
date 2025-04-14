@@ -39,6 +39,12 @@ val Razy = human {
 
 ## GitHub Activity
 
+**2025-04-13** — pushed [e83d40e](https://github.com/arrazyfathan/typescript-restful-api/commits/e83d40ee88c1f542b340614e31fb6dfbaa53f8be) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add: manual test and runInBand for sequential testing"
+
+**2025-04-13** — pushed [18bc5d3](https://github.com/arrazyfathan/typescript-restful-api/commits/18bc5d3346fe778f55d3cee860a5b3dcb1eed0bf) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md"
+
+**2025-04-13** — pushed [353199e](https://github.com/arrazyfathan/typescript-restful-api/commits/353199e9cb04cd84d9cfb78b80d8adba64d88946) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add postman collection"
+
 **2025-04-12** — pushed [73f5358](https://github.com/arrazyfathan/typescript-restful-api/commits/73f535809d464aa8ed02c61cbc8aa0d520d1f23e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md:"
 
 **2025-04-12** — pushed [eb880d5](https://github.com/arrazyfathan/typescript-restful-api/commits/eb880d5a1a211add1c2014446cea989d4a9b13a0) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add get list addresses api"
@@ -52,35 +58,11 @@ val Razy = human {
 **2025-04-11** — pushed [f0c838e](https://github.com/arrazyfathan/typescript-restful-api/commits/f0c838ee5476ccf119ea04a37d7742651e69966e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add create address api"
 
 **2025-04-11** — pushed [e91cb15](https://github.com/arrazyfathan/typescript-restful-api/commits/e91cb15885335565eda7bdfe869f935d44aa671b) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add search contact api"
-
-**2025-04-11** — pushed [dd7588a](https://github.com/arrazyfathan/typescript-restful-api/commits/dd7588a7e2aef474206b9ae1370aeb5897378c13) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add remove contact api"
-
-**2025-04-11** — pushed [403e50e](https://github.com/arrazyfathan/typescript-restful-api/commits/403e50ed61137f64e728f8cdd4dd43dccaaf2b14) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add update contact api"
-
-**2025-04-11** — pushed [e583202](https://github.com/arrazyfathan/typescript-restful-api/commits/e583202795ab5c7cc4a19860bc1f80217b941093) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add nodemon.json"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 12 April 2025
-
-Total Time: 235 hrs 18 mins
-
-Kotlin                 110 hrs 29 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.85 %
-XML                    23 hrs 47 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.87 %
-JavaScript             22 hrs 30 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.34 %
-TypeScript             20 hrs 51 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.66 %
-EJS                    8 hrs 4 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.35 %
-Groovy                 6 hrs 17 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.61 %
-Other                  5 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.36 %
-HTTP Request           4 hrs 19 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.79 %
-Dart                   4 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.74 %
-Gradle                 3 hrs 57 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.65 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
