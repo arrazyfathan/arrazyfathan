@@ -20,6 +20,6 @@ ${githubActivity.joinToString("\n\n") { it.toString() }}
 <!--END_SECTION:waka-->
 
 ---
-© 2024 — Ar Razy Fathan Rabbani
+© 2025 — Ar Razy Fathan Rabbani
   """.trimIndent()
 }
