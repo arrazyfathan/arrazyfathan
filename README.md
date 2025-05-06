@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-05-05** — pushed [0915690](https://github.com/arrazyfathan/arrazyfathan/commits/0915690935d826a455dfdcea068324df50dfb987) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "change year"
+
 **2025-05-03** — pushed [d71c2d3](https://github.com/arrazyfathan/arrazyfathan/commits/d71c2d3e4834de0f38b68cfe392a3e9f43796cd8) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "feat: remove about me section"
 
 **2025-05-03** — pushed [20ed9c7](https://github.com/arrazyfathan/typescript-restful-api/commits/20ed9c7d7cd3525dda9f0cb244327d7732a112d2) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "chore: improve logger"
@@ -22,31 +24,11 @@
 **2025-04-12** — pushed [73f5358](https://github.com/arrazyfathan/typescript-restful-api/commits/73f535809d464aa8ed02c61cbc8aa0d520d1f23e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md:"
 
 **2025-04-12** — pushed [eb880d5](https://github.com/arrazyfathan/typescript-restful-api/commits/eb880d5a1a211add1c2014446cea989d4a9b13a0) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add get list addresses api"
-
-**2025-04-12** — pushed [77de7de](https://github.com/arrazyfathan/typescript-restful-api/commits/77de7dec37f55f89df2e46862015c050047d9661) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add remove address api"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 04 May 2025
-
-Total Time: 283 hrs 29 mins
-
-Kotlin                 113 hrs 12 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.11 %
-JavaScript             39 hrs 31 mins  ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.66 %
-XML                    23 hrs 50 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.24 %
-TypeScript             21 hrs 56 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.58 %
-PHP                    9 hrs 27 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.27 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.79 %
-Groovy                 7 hrs 32 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.60 %
-Other                  5 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.06 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.96 %
-HTTP Request           4 hrs 42 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.62 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
