@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-05-06** — created repository on [arrazyfathan/learn-nodejs-validation](https://github.com/arrazyfathan/learn-nodejs-validation)
+
 **2025-05-05** — pushed [0915690](https://github.com/arrazyfathan/arrazyfathan/commits/0915690935d826a455dfdcea068324df50dfb987) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "change year"
 
 **2025-05-03** — pushed [d71c2d3](https://github.com/arrazyfathan/arrazyfathan/commits/d71c2d3e4834de0f38b68cfe392a3e9f43796cd8) to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan): "feat: remove about me section"
@@ -22,31 +24,11 @@
 **2025-04-13** — pushed [353199e](https://github.com/arrazyfathan/typescript-restful-api/commits/353199e9cb04cd84d9cfb78b80d8adba64d88946) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add postman collection"
 
 **2025-04-12** — pushed [73f5358](https://github.com/arrazyfathan/typescript-restful-api/commits/73f535809d464aa8ed02c61cbc8aa0d520d1f23e) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md:"
-
-**2025-04-12** — pushed [eb880d5](https://github.com/arrazyfathan/typescript-restful-api/commits/eb880d5a1a211add1c2014446cea989d4a9b13a0) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "feat: add get list addresses api"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 05 May 2025
-
-Total Time: 286 hrs 1 min
-
-Kotlin                 113 hrs 22 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.83 %
-JavaScript             39 hrs 37 mins  ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.57 %
-XML                    24 hrs 16 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.31 %
-TypeScript             21 hrs 56 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.51 %
-PHP                    9 hrs 27 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.24 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.77 %
-Groovy                 7 hrs 39 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.62 %
-Other                  5 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.04 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.94 %
-Gradle                 4 hrs 51 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.66 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
