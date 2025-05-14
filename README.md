@@ -16,34 +16,11 @@
 **2025-04-17** — pushed [50a13ed](https://github.com/arrazyfathan/typescript-restful-api/commits/50a13eddc5fc82b740b05c0fecdca1a63a403692) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update folder name"
 
 **2025-04-14** — pushed [6e1a6d5](https://github.com/arrazyfathan/typescript-restful-api/commits/6e1a6d5a72dba15a0a20a170d90d9cd289783c67) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md"
-
-**2025-04-13** — pushed [e83d40e](https://github.com/arrazyfathan/typescript-restful-api/commits/e83d40ee88c1f542b340614e31fb6dfbaa53f8be) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add: manual test and runInBand for sequential testing"
-
-**2025-04-13** — pushed [18bc5d3](https://github.com/arrazyfathan/typescript-restful-api/commits/18bc5d3346fe778f55d3cee860a5b3dcb1eed0bf) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md"
-
-**2025-04-13** — pushed [353199e](https://github.com/arrazyfathan/typescript-restful-api/commits/353199e9cb04cd84d9cfb78b80d8adba64d88946) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "add postman collection"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 12 May 2025
-
-Total Time: 293 hrs 44 mins
-
-Kotlin                 113 hrs 50 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.99 %
-JavaScript             43 hrs 34 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.54 %
-XML                    24 hrs 19 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.12 %
-TypeScript             21 hrs 56 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.32 %
-PHP                    9 hrs 27 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.15 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.70 %
-Groovy                 7 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.56 %
-Other                  5 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.89 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
