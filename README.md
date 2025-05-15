@@ -14,30 +14,11 @@
 **2025-05-03** — pushed [20ed9c7](https://github.com/arrazyfathan/typescript-restful-api/commits/20ed9c7d7cd3525dda9f0cb244327d7732a112d2) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "chore: improve logger"
 
 **2025-04-17** — pushed [50a13ed](https://github.com/arrazyfathan/typescript-restful-api/commits/50a13eddc5fc82b740b05c0fecdca1a63a403692) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update folder name"
-
-**2025-04-14** — pushed [6e1a6d5](https://github.com/arrazyfathan/typescript-restful-api/commits/6e1a6d5a72dba15a0a20a170d90d9cd289783c67) to [arrazyfathan/typescript-restful-api](https://github.com/arrazyfathan/typescript-restful-api): "update README.md"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 13 May 2025
-
-Total Time: 295 hrs
-
-Kotlin                 113 hrs 58 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.53 %
-JavaScript             43 hrs 43 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.40 %
-XML                    24 hrs 19 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.01 %
-TypeScript             22 hrs 10 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.30 %
-PHP                    9 hrs 27 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.11 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.86 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.66 %
-Groovy                 7 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
