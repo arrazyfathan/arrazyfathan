@@ -5,48 +5,32 @@
 
 ## GitHub Activity
 
-**2025-05-17** — pushed [8d9cf65](https://github.com/arrazyfathan/tudu-backend/commits/8d9cf65b9a31854618a0c0eb85d8dfb5ecfbe266) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add feature logout"
+**2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
 
-**2025-05-17** — merged PR [#5](https://github.com/arrazyfathan/tudu-backend/pull/5) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature logout and get current user"
+**2025-05-18** — merged PR [#7](https://github.com/arrazyfathan/tudu-backend/pull/7) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature delete user"
 
-**2025-05-17** — opened PR [#5](https://github.com/arrazyfathan/tudu-backend/pull/5) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature login and get current user"
+**2025-05-18** — opened PR [#7](https://github.com/arrazyfathan/tudu-backend/pull/7) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature delete user"
 
-**2025-05-17** — pushed [7acbbe7](https://github.com/arrazyfathan/tudu-backend/commits/7acbbe76d6555a5459b23fdbafdb953012b574a4) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "add husky"
+**2025-05-18** — pushed [929b7a3](https://github.com/arrazyfathan/tudu-backend/commits/929b7a3bc2d8b1456ca303bb14bdca24a055ea50) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: delete refresh tokens when a user is deleted
 
-**2025-05-17** — pushed [68459f6](https://github.com/arrazyfathan/tudu-backend/commits/68459f634db0855bcd452ce1ffcc7cf5c75c5fbb) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add test get current user api"
+Ensure all refresh tokens associated with a user are removed from the database upon user deletion. This helps maintain data consistency and prevents unauthorized use of stale tokens."
 
-**2025-05-17** — pushed [f655f25](https://github.com/arrazyfathan/tudu-backend/commits/f655f25c3f14fbb431290809e5a924c427a323a9) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add get current user api"
+**2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
 
-**2025-05-17** — pushed [8d9cf65](https://github.com/arrazyfathan/tudu-backend/commits/8d9cf65b9a31854618a0c0eb85d8dfb5ecfbe266) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add feature logout"
+**2025-05-18** — pushed [ba20e60](https://github.com/arrazyfathan/tudu-backend/commits/ba20e60e38c94e96f6a9afbeb1d8ae8e40b879e0) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "dist: update prisma version"
 
-**2025-05-16** — pushed [d929d89](https://github.com/arrazyfathan/tudu-backend/commits/d929d8908c9d7d17ab5924316cf22fb5151d4d34) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "add env sample"
+**2025-05-18** — merged PR [#6](https://github.com/arrazyfathan/tudu-backend/pull/6) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add update user api and testing for update user api"
 
-**2025-05-16** — merged PR [#4](https://github.com/arrazyfathan/tudu-backend/pull/4) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add refresh token feature"
+**2025-05-18** — opened PR [#6](https://github.com/arrazyfathan/tudu-backend/pull/6) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add update user api and testing for update user api"
 
-**2025-05-16** — opened PR [#4](https://github.com/arrazyfathan/tudu-backend/pull/4) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add refresh token feature"
+**2025-05-18** — pushed [ef43c6d](https://github.com/arrazyfathan/tudu-backend/commits/ef43c6d29745e706b86ca27ad6e5c45b59175b70) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing update user api"
+
+**2025-05-18** — pushed [edd1545](https://github.com/arrazyfathan/tudu-backend/commits/edd1545fd47eb3d6bc19eb0313ac921bb0af2132) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add update user api"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 17 May 2025
-
-Total Time: 309 hrs 16 mins
-
-Kotlin                 114 hrs 15 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.93 %
-JavaScript             43 hrs 43 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.75 %
-TypeScript             29 hrs 17 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.21 %
-XML                    24 hrs 25 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.68 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.97 %
-Dart                   9 hrs 20 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.94 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.73 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.54 %
-Groovy                 7 hrs 46 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.45 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
