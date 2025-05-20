@@ -5,6 +5,16 @@
 
 ## GitHub Activity
 
+**2025-05-19** — pushed [f03eedd](https://github.com/arrazyfathan/tudu-backend/commits/f03eedd6c23191958524e0d155885b35bd47e74f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing delete user api"
+
+**2025-05-19** — merged PR [#8](https://github.com/arrazyfathan/tudu-backend/pull/8) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add test delete user api and optimize code for testing"
+
+**2025-05-19** — opened PR [#8](https://github.com/arrazyfathan/tudu-backend/pull/8) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add test delete user api and optimize code for testing"
+
+**2025-05-19** — pushed [a2604b0](https://github.com/arrazyfathan/tudu-backend/commits/a2604b0f9c6936d000d14fcdbc3a3ace55fab174) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: optimize redundant code for testing"
+
+**2025-05-19** — pushed [f03eedd](https://github.com/arrazyfathan/tudu-backend/commits/f03eedd6c23191958524e0d155885b35bd47e74f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing delete user api"
+
 **2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
 
 **2025-05-18** — merged PR [#7](https://github.com/arrazyfathan/tudu-backend/pull/7) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature delete user"
@@ -16,39 +26,11 @@
 Ensure all refresh tokens associated with a user are removed from the database upon user deletion. This helps maintain data consistency and prevents unauthorized use of stale tokens."
 
 **2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
-
-**2025-05-18** — pushed [ba20e60](https://github.com/arrazyfathan/tudu-backend/commits/ba20e60e38c94e96f6a9afbeb1d8ae8e40b879e0) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "dist: update prisma version"
-
-**2025-05-18** — merged PR [#6](https://github.com/arrazyfathan/tudu-backend/pull/6) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add update user api and testing for update user api"
-
-**2025-05-18** — opened PR [#6](https://github.com/arrazyfathan/tudu-backend/pull/6) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add update user api and testing for update user api"
-
-**2025-05-18** — pushed [ef43c6d](https://github.com/arrazyfathan/tudu-backend/commits/ef43c6d29745e706b86ca27ad6e5c45b59175b70) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing update user api"
-
-**2025-05-18** — pushed [edd1545](https://github.com/arrazyfathan/tudu-backend/commits/edd1545fd47eb3d6bc19eb0313ac921bb0af2132) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add update user api"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 18 May 2025
-
-Total Time: 311 hrs 10 mins
-
-Kotlin                 114 hrs 15 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.72 %
-JavaScript             43 hrs 43 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.67 %
-TypeScript             30 hrs 44 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.61 %
-XML                    24 hrs 25 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.64 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.95 %
-Dart                   9 hrs 20 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.92 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
-Groovy                 7 hrs 46 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.43 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.77 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
