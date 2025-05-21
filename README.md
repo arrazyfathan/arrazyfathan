@@ -5,6 +5,14 @@
 
 ## GitHub Activity
 
+**2025-05-20** — pushed [059a292](https://github.com/arrazyfathan/tudu-backend/commits/059a2922aa72f347622b686cd4e9f335b273706e) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+
+**2025-05-20** — merged PR [#9](https://github.com/arrazyfathan/tudu-backend/pull/9) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+
+**2025-05-20** — opened PR [#9](https://github.com/arrazyfathan/tudu-backend/pull/9) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+
+**2025-05-20** — pushed [059a292](https://github.com/arrazyfathan/tudu-backend/commits/059a2922aa72f347622b686cd4e9f335b273706e) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+
 **2025-05-19** — pushed [f03eedd](https://github.com/arrazyfathan/tudu-backend/commits/f03eedd6c23191958524e0d155885b35bd47e74f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing delete user api"
 
 **2025-05-19** — merged PR [#8](https://github.com/arrazyfathan/tudu-backend/pull/8) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add test delete user api and optimize code for testing"
@@ -16,39 +24,11 @@
 **2025-05-19** — pushed [f03eedd](https://github.com/arrazyfathan/tudu-backend/commits/f03eedd6c23191958524e0d155885b35bd47e74f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing delete user api"
 
 **2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
-
-**2025-05-18** — merged PR [#7](https://github.com/arrazyfathan/tudu-backend/pull/7) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature delete user"
-
-**2025-05-18** — opened PR [#7](https://github.com/arrazyfathan/tudu-backend/pull/7) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature delete user"
-
-**2025-05-18** — pushed [929b7a3](https://github.com/arrazyfathan/tudu-backend/commits/929b7a3bc2d8b1456ca303bb14bdca24a055ea50) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: delete refresh tokens when a user is deleted
-
-Ensure all refresh tokens associated with a user are removed from the database upon user deletion. This helps maintain data consistency and prevents unauthorized use of stale tokens."
-
-**2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 19 May 2025
-
-Total Time: 315 hrs 27 mins
-
-Kotlin                 114 hrs 19 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.27 %
-JavaScript             43 hrs 43 mins  ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.49 %
-TypeScript             31 hrs 19 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.66 %
-XML                    24 hrs 25 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.53 %
-Dart                   12 hrs 32 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.92 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.68 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.49 %
-Groovy                 7 hrs 46 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.40 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.75 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
