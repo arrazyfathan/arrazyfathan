@@ -5,48 +5,30 @@
 
 ## GitHub Activity
 
-**2025-05-20** — pushed [059a292](https://github.com/arrazyfathan/tudu-backend/commits/059a2922aa72f347622b686cd4e9f335b273706e) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+**2025-05-21** — pushed [15c07cf](https://github.com/arrazyfathan/tudu-backend/commits/15c07cf6e9b96a2df7ae217415395f43618ccd9c) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add get categories api"
 
-**2025-05-20** — merged PR [#9](https://github.com/arrazyfathan/tudu-backend/pull/9) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+**2025-05-21** — merged PR [#11](https://github.com/arrazyfathan/tudu-backend/pull/11) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Categories Feature MR"
 
-**2025-05-20** — opened PR [#9](https://github.com/arrazyfathan/tudu-backend/pull/9) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+**2025-05-21** — opened PR [#11](https://github.com/arrazyfathan/tudu-backend/pull/11) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Categories Feature MR"
 
-**2025-05-20** — pushed [059a292](https://github.com/arrazyfathan/tudu-backend/commits/059a2922aa72f347622b686cd4e9f335b273706e) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add tags and category models"
+**2025-05-21** — pushed [eae2ee1](https://github.com/arrazyfathan/tudu-backend/commits/eae2ee1d5dbe4775190719c09892bf7f333ef3ef) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing create category"
 
-**2025-05-19** — pushed [f03eedd](https://github.com/arrazyfathan/tudu-backend/commits/f03eedd6c23191958524e0d155885b35bd47e74f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing delete user api"
+**2025-05-21** — pushed [0f50b3f](https://github.com/arrazyfathan/tudu-backend/commits/0f50b3f547e706ecb73ff5a4d5d66f9c6ce79dcb) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add create category api"
 
-**2025-05-19** — merged PR [#8](https://github.com/arrazyfathan/tudu-backend/pull/8) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add test delete user api and optimize code for testing"
+**2025-05-21** — pushed [c0cc139](https://github.com/arrazyfathan/tudu-backend/commits/c0cc13937947b40db928bd030a76f7a7d11a778f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing get categories"
 
-**2025-05-19** — opened PR [#8](https://github.com/arrazyfathan/tudu-backend/pull/8) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add test delete user api and optimize code for testing"
+**2025-05-21** — pushed [15c07cf](https://github.com/arrazyfathan/tudu-backend/commits/15c07cf6e9b96a2df7ae217415395f43618ccd9c) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add get categories api"
 
-**2025-05-19** — pushed [a2604b0](https://github.com/arrazyfathan/tudu-backend/commits/a2604b0f9c6936d000d14fcdbc3a3ace55fab174) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: optimize redundant code for testing"
+**2025-05-21** — pushed [7f1313c](https://github.com/arrazyfathan/tudu-backend/commits/7f1313c687486b351d6a0ff22942fe7882bc515d) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "add seeding for categories and tags"
 
-**2025-05-19** — pushed [f03eedd](https://github.com/arrazyfathan/tudu-backend/commits/f03eedd6c23191958524e0d155885b35bd47e74f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add testing delete user api"
+**2025-05-21** — merged PR [#10](https://github.com/arrazyfathan/tudu-backend/pull/10) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "add seeder for categories and tags"
 
-**2025-05-18** — pushed [3c3e427](https://github.com/arrazyfathan/tudu-backend/commits/3c3e4278d9280ea330236639923523221a2c2aed) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add delete user api"
+**2025-05-21** — opened PR [#10](https://github.com/arrazyfathan/tudu-backend/pull/10) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "add seeder for categories and tags"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 21 May 2025
-
-Total Time: 324 hrs 40 mins
-
-Kotlin                 114 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.34 %
-JavaScript             43 hrs 44 mins  ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.12 %
-TypeScript             33 hrs 17 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.99 %
-XML                    24 hrs 34 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.37 %
-Dart                   17 hrs 48 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.34 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.61 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.42 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.33 %
-Blade Template         5 hrs 39 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.70 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
