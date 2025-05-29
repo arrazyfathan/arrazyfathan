@@ -5,48 +5,30 @@
 
 ## GitHub Activity
 
-**2025-05-27** — pushed [73467a9](https://github.com/arrazyfathan/tudu-mobile/commits/73467a926c94ab6c4d8037689352f1183f2cc312) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Setup ktor client for android, ios and desktop"
+**2025-05-28** — merged PR [#21](https://github.com/arrazyfathan/tudu-backend/pull/21) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature multiple delete journal"
 
-**2025-05-27** — pushed [f7db07d](https://github.com/arrazyfathan/tudu-backend/commits/f7db07dd7486272a9d7df8d53699b02eb9e4d2db) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add soft delete journals api"
+**2025-05-28** — pushed [b548c25](https://github.com/arrazyfathan/tudu-backend/commits/b548c25de36fadf15e780a7a62d6bbc0d1f3e228) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "refactor: edit variable name journey service"
 
-**2025-05-27** — merged PR [#19](https://github.com/arrazyfathan/tudu-backend/pull/19) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Implement Soft Delete for Journals API and Add Related Tests"
+**2025-05-28** — opened PR [#21](https://github.com/arrazyfathan/tudu-backend/pull/21) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add feature multiple delete journal"
 
-**2025-05-27** — opened PR [#19](https://github.com/arrazyfathan/tudu-backend/pull/19) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Implement Soft Delete for Journals API and Add Related Tests"
+**2025-05-28** — pushed [9891f7e](https://github.com/arrazyfathan/tudu-backend/commits/9891f7efddd08e36501947a15c66f837ad4fd58a) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add integration test multiple delete and update journal"
 
-**2025-05-27** — pushed [f9b9776](https://github.com/arrazyfathan/tudu-backend/commits/f9b97764bc3b41344ba0c9bfbf50b39bec35769e) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test: add integration test get journals"
+**2025-05-28** — pushed [5b6c903](https://github.com/arrazyfathan/tudu-backend/commits/5b6c9032899c23095061f10ef0a6c8f67d5568ae) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add multiple delete journal api"
 
-**2025-05-27** — pushed [1f8e5a8](https://github.com/arrazyfathan/tudu-backend/commits/1f8e5a89089cca24227219457d127681d8f7565f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: adjust query param for search journal"
+**2025-05-28** — pushed [b548c25](https://github.com/arrazyfathan/tudu-backend/commits/b548c25de36fadf15e780a7a62d6bbc0d1f3e228) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "refactor: edit variable name journey service"
 
-**2025-05-26** — pushed [f7db07d](https://github.com/arrazyfathan/tudu-backend/commits/f7db07dd7486272a9d7df8d53699b02eb9e4d2db) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add soft delete journals api"
+**2025-05-28** — pushed [2582c64](https://github.com/arrazyfathan/tudu-backend/commits/2582c6466da534f99a20d2fc46282aa37a420c0a) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add update journal api"
 
-**2025-05-26** — pushed [1a6c91b](https://github.com/arrazyfathan/tudu-backend/commits/1a6c91ba3daf7986e19888a5960c28cd033cbf84) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add get journals api"
+**2025-05-28** — merged PR [#20](https://github.com/arrazyfathan/tudu-backend/pull/20) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add update journal api"
 
-**2025-05-26** — merged PR [#18](https://github.com/arrazyfathan/tudu-backend/pull/18) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add get journals api"
+**2025-05-28** — opened PR [#20](https://github.com/arrazyfathan/tudu-backend/pull/20) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add update journal api"
 
-**2025-05-26** — opened PR [#18](https://github.com/arrazyfathan/tudu-backend/pull/18) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add get journals api"
+**2025-05-28** — pushed [2582c64](https://github.com/arrazyfathan/tudu-backend/commits/2582c6466da534f99a20d2fc46282aa37a420c0a) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat: add update journal api"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 27 May 2025
-
-Total Time: 334 hrs 23 mins
-
-Kotlin                 114 hrs 40 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.42 %
-JavaScript             43 hrs 44 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.75 %
-TypeScript             39 hrs 41 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.57 %
-XML                    24 hrs 34 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.16 %
-Dart                   20 hrs 12 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.89 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.75 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
-EJS                    8 hrs 4 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.36 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.27 %
-Blade Template         5 hrs 39 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.65 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
