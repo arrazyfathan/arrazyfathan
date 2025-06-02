@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-06-01** — pushed [353f43c](https://github.com/arrazyfathan/tudu-mobile/commits/353f43ced731cc576b2fd513c144fcb01945b610) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add core domain and presentation components"
+
 **2025-05-31** — pushed [e25b39b](https://github.com/arrazyfathan/tudu-backend/commits/e25b39b0b9386594fe9ea945fe8771a1513aaf99) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Update configuration package.json and tsconfig.json"
 
 **2025-05-31** — merged PR [#23](https://github.com/arrazyfathan/tudu-backend/pull/23) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Update configuration package.json and tsconfig.json"
@@ -22,31 +24,11 @@
 **2025-05-29** — merged PR [#22](https://github.com/arrazyfathan/tudu-backend/pull/22) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add missing test case"
 
 **2025-05-29** — opened PR [#22](https://github.com/arrazyfathan/tudu-backend/pull/22) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add missing test case"
-
-**2025-05-29** — pushed [7c1fe1c](https://github.com/arrazyfathan/tudu-backend/commits/7c1fe1c4dd8c88bafe8424679a3cade593986f4c) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test(auth): add missing login success test and improve overall coverage for auth endpoints"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 31 May 2025
-
-Total Time: 338 hrs 55 mins
-
-Kotlin                 114 hrs 51 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.04 %
-JavaScript             43 hrs 48 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.60 %
-TypeScript             41 hrs 40 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.99 %
-XML                    24 hrs 34 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.07 %
-Dart                   20 hrs 31 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.91 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.50 %
-EJS                    8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.32 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.24 %
-Blade Template         5 hrs 39 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.63 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
