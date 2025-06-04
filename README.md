@@ -5,6 +5,18 @@
 
 ## GitHub Activity
 
+**2025-06-03** — pushed [de02562](https://github.com/arrazyfathan/tudu-mobile/commits/de0256263ed4bcef8761c245aa8314d3883423bd) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Configure Firebase for iOS"
+
+**2025-06-03** — pushed [2a59f92](https://github.com/arrazyfathan/tudu-mobile/commits/2a59f9246176e5ad6baa1644fb9d004ca0e08579) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Setup firebase for android"
+
+**2025-06-03** — pushed [f9a8eb4](https://github.com/arrazyfathan/tudu-backend/commits/f9a8eb4f397d2e05b3f019121045dde53193264f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "chore: prepare dockerfile and docker-compose"
+
+**2025-06-03** — merged PR [#24](https://github.com/arrazyfathan/tudu-backend/pull/24) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "chore: prepare dockerfile and docker-compose"
+
+**2025-06-03** — opened PR [#24](https://github.com/arrazyfathan/tudu-backend/pull/24) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "chore: prepare dockerfile and docker-compose"
+
+**2025-06-03** — pushed [f9a8eb4](https://github.com/arrazyfathan/tudu-backend/commits/f9a8eb4f397d2e05b3f019121045dde53193264f) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "chore: prepare dockerfile and docker-compose"
+
 **2025-06-02** — pushed [0497edf](https://github.com/arrazyfathan/tudu-mobile/commits/0497edfe305992e7f57ec6ab82dff99da1662ede) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add koin for DI and basic string resources"
 
 **2025-06-01** — pushed [353f43c](https://github.com/arrazyfathan/tudu-mobile/commits/353f43ced731cc576b2fd513c144fcb01945b610) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add core domain and presentation components"
@@ -12,41 +24,11 @@
 **2025-05-31** — pushed [e25b39b](https://github.com/arrazyfathan/tudu-backend/commits/e25b39b0b9386594fe9ea945fe8771a1513aaf99) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Update configuration package.json and tsconfig.json"
 
 **2025-05-31** — merged PR [#23](https://github.com/arrazyfathan/tudu-backend/pull/23) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Update configuration package.json and tsconfig.json"
-
-**2025-05-31** — opened PR [#23](https://github.com/arrazyfathan/tudu-backend/pull/23) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Update configuration package.json and tsconfig.json"
-
-**2025-05-31** — pushed [e25b39b](https://github.com/arrazyfathan/tudu-backend/commits/e25b39b0b9386594fe9ea945fe8771a1513aaf99) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Update configuration package.json and tsconfig.json"
-
-**2025-05-30** — pushed [d46bf6b](https://github.com/arrazyfathan/tudu-mobile/commits/d46bf6bef605cada4f5695834b410d9f90e91bd5) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add common dependencies and serialization plugin"
-
-**2025-05-29** — pushed [bf02018](https://github.com/arrazyfathan/tudu-mobile/commits/bf0201858b97ac6c570338b69feea78634358f24) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "add looging utils"
-
-**2025-05-29** — pushed [7c1fe1c](https://github.com/arrazyfathan/tudu-backend/commits/7c1fe1c4dd8c88bafe8424679a3cade593986f4c) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "test(auth): add missing login success test and improve overall coverage for auth endpoints"
-
-**2025-05-29** — merged PR [#22](https://github.com/arrazyfathan/tudu-backend/pull/22) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add missing test case"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 02 June 2025
-
-Total Time: 340 hrs 28 mins
-
-Kotlin                 115 hrs 20 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.03 %
-JavaScript             43 hrs 50 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.56 %
-TypeScript             41 hrs 57 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.02 %
-XML                    24 hrs 36 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.05 %
-Dart                   20 hrs 37 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.90 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.71 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.49 %
-EJS                    8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.31 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 %
-Blade Template         5 hrs 39 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.62 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
