@@ -5,6 +5,12 @@
 
 ## GitHub Activity
 
+**2025-06-10** — pushed [2ae433d](https://github.com/arrazyfathan/tudu-mobile/commits/2ae433d3ade43a8d07a8da8018af488152043673) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(android): add animated splash screen"
+
+**2025-06-10** — pushed [e42e88e](https://github.com/arrazyfathan/tudu-mobile/commits/e42e88e2d1465352bf8f0bdc79b9a89de856b570) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Configure native distributions with icons and license"
+
+**2025-06-10** — pushed [561f01d](https://github.com/arrazyfathan/tudu-mobile/commits/561f01d1a26840631b252f61cf2f6141f16df402) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Refactor: Move onboarding feature to features packages"
+
 **2025-06-09** — pushed [b4a8ae5](https://github.com/arrazyfathan/tudu-mobile/commits/b4a8ae50720b899b16decbc4ced94510011670d9) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Inject IO Dispatcher for PreferencesManager"
 
 **2025-06-08** — pushed [b43dd15](https://github.com/arrazyfathan/tudu-mobile/commits/b43dd155a71ab87a99fdbb884f66b04ad80ae11f) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Refactor navigation setup into NavigationRoot"
@@ -18,35 +24,11 @@
 **2025-06-07** — pushed [777c3d9](https://github.com/arrazyfathan/tudu-mobile/commits/777c3d93fcfd950c8a27ccab1958a64c808a603c) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add string resources for data errors and a mapper function"
 
 **2025-06-07** — pushed [be3b8d4](https://github.com/arrazyfathan/tudu-mobile/commits/be3b8d4bfae8090a797cc3dbd3d6a782e1c10c0c) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add common Result and DataError types"
-
-**2025-06-06** — pushed [f0ffb2e](https://github.com/arrazyfathan/tudu-backend/commits/f0ffb2ef771431775219a47edc6ece31774d5360) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: update method for store fcm token"
-
-**2025-06-06** — merged PR [#27](https://github.com/arrazyfathan/tudu-backend/pull/27) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: update method for store fcm token"
-
-**2025-06-06** — opened PR [#27](https://github.com/arrazyfathan/tudu-backend/pull/27) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "fix: update method for store fcm token"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 09 June 2025
-
-Total Time: 349 hrs 17 mins
-
-Kotlin                 119 hrs 25 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.36 %
-JavaScript             44 hrs 59 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.57 %
-TypeScript             43 hrs 27 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.14 %
-XML                    24 hrs 40 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.89 %
-Dart                   20 hrs 44 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.79 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.64 %
-Other                  8 hrs 41 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.43 %
-EJS                    8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.26 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.17 %
-Text                   5 hrs 43 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.60 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
