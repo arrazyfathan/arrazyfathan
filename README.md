@@ -5,6 +5,10 @@
 
 ## GitHub Activity
 
+**2025-06-16** — pushed [ad0ceec](https://github.com/arrazyfathan/tudu-mobile/commits/ad0ceec542b64008dfec9401487cafa1695a0a2e) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(register) : add register ui and uiState"
+
+**2025-06-16** — pushed [a5abb03](https://github.com/arrazyfathan/tudu-mobile/commits/a5abb0367b8686b3e3d7dad2b4a3d2645f6c1ae1) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(login): add validation form login"
+
 **2025-06-15** — commented on [#1](https://github.com/arrazyfathan/tudu-mobile/issues/1#issuecomment-2974824321) in [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile)
 
 **2025-06-15** — pushed [31bdf67](https://github.com/arrazyfathan/tudu-mobile/commits/31bdf678447d6d54aba0467257afd7c571f4cc4e) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat : change auth prefs and enhance login flow"
@@ -20,33 +24,11 @@
 **2025-06-13** — pushed [3dcf6f0](https://github.com/arrazyfathan/tudu-mobile/commits/3dcf6f02e863d68e3b1d977cfc8c0d6e97192bf7) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(Auth): Enhance LoginScreen and implement RegisterScreen"
 
 **2025-06-13** — pushed [c184964](https://github.com/arrazyfathan/tudu-mobile/commits/c18496405edf3dc41129ab482c49b0c713151684) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Refactor: Improve error handling and refine Ktor client"
-
-**2025-06-13** — pushed [a67f6a3](https://github.com/arrazyfathan/tudu-mobile/commits/a67f6a3f3843198d1d551e7ea4009d79650bb6ca) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Add login feature with basic UI and API integration"
-
-**2025-06-12** — pushed [efc9b7b](https://github.com/arrazyfathan/tudu-mobile/commits/efc9b7bdedc94878b81df57cffabf70c2d7fa11b) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "Setup Proguard and app versioning"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 15 June 2025
-
-Total Time: 372 hrs 36 mins
-
-Kotlin                 140 hrs 18 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.79 %
-JavaScript             44 hrs 59 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.80 %
-TypeScript             43 hrs 39 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.45 %
-XML                    25 hrs 43 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.75 %
-Dart                   20 hrs 48 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.46 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.48 %
-Other                  8 hrs 43 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.29 %
-EJS                    8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.12 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.04 %
-Text                   5 hrs 47 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.52 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
