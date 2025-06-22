@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-06-21** — pushed [989b828](https://github.com/arrazyfathan/tudu-mobile/commits/989b828b4b11fd5c8b0af135d47480386dd8f815) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add staggered list view and dummy content (#2)"
+
 **2025-06-20** — pushed [72b694e](https://github.com/arrazyfathan/tudu-mobile/commits/72b694ededa5e9adc130baaeaba72985e50a7176) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add navigation drawer and top bar (#2)"
 
 **2025-06-20** — pushed [d1b17ce](https://github.com/arrazyfathan/tudu-mobile/commits/d1b17cef953258c1470bf5a95391e0ed5e56ba24) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "fix(android): fixing edge to edge status bar color"
@@ -22,31 +24,11 @@
 **2025-06-18** — pushed [b096f27](https://github.com/arrazyfathan/tudu-mobile/commits/b096f271725659985a4d05729c67d46445f618f6) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(app): Add AppViewModel and AppState"
 
 **2025-06-18** — pushed [5b349f9](https://github.com/arrazyfathan/tudu-mobile/commits/5b349f9a562b59e5a0d6d945d58381045f73d90e) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "refactor: preferences and session management with Flow"
-
-**2025-06-17** — pushed [b294305](https://github.com/arrazyfathan/tudu-mobile/commits/b294305d6e1818ae78c3d62527b7426e84a04393) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "refactor: rename AuthPreferences to SessionStorage"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 20 June 2025
-
-Total Time: 391 hrs 9 mins
-
-Kotlin                 156 hrs 40 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.18 %
-JavaScript             44 hrs 59 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.25 %
-TypeScript             43 hrs 42 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.93 %
-XML                    26 hrs 8 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 %
-Dart                   21 hrs 7 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
-PHP                    9 hrs 27 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.36 %
-Other                  8 hrs 43 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.18 %
-EJS                    8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.02 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.95 %
-Text                   5 hrs 47 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.45 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
