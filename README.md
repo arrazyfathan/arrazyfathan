@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-06-26** — pushed [5545c99](https://github.com/arrazyfathan/tudu-mobile/commits/5545c99d0346a29224b90213bbd7f9960d2714d7) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): improve journal item and home page screen(#2)"
+
 **2025-06-24** — pushed [4b0010b](https://github.com/arrazyfathan/tudu-mobile/commits/4b0010bec7d874c9d0b9e8eb390b23e06ff089c0) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add custom floating action button (#2)"
 
 **2025-06-23** — pushed [e1dcd21](https://github.com/arrazyfathan/tudu-mobile/commits/e1dcd2163587d3b2f29fdd4162e536d9642f6578) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): improve navigation animations (#2)"
@@ -22,31 +24,11 @@
 **2025-06-20** — pushed [bb8e0b2](https://github.com/arrazyfathan/tudu-mobile/commits/bb8e0b2938c0247c614d2d56f24bfb39cba5cbc2) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add navigation drawer (#2)"
 
 **2025-06-20** — pushed [9d41901](https://github.com/arrazyfathan/tudu-mobile/commits/9d41901a94c9b3612bba98213aad26d4395d4b26) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat: add compos unstyled"
-
-**2025-06-19** — pushed [1c920f3](https://github.com/arrazyfathan/tudu-mobile/commits/1c920f36d8bcb41307773515718131f7e9d7b89c) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(database): add Room database implementation (#9)"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 25 June 2025
-
-Total Time: 397 hrs 51 mins
-
-Kotlin                 163 hrs 21 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.18 %
-JavaScript             44 hrs 59 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.06 %
-TypeScript             43 hrs 42 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.75 %
-XML                    26 hrs 8 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.43 %
-Dart                   21 hrs 7 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.19 %
-PHP                    9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.32 %
-Other                  8 hrs 43 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.14 %
-EJS                    8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
-Groovy                 7 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.91 %
-Text                   5 hrs 47 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.43 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
