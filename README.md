@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-06-30** — pushed [f07df71](https://github.com/arrazyfathan/tudu-mobile/commits/f07df71f2872c45615c86b637b958707eca32761) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(ios): add firebase crashlytics"
+
 **2025-06-29** — pushed [087bf37](https://github.com/arrazyfathan/tudu-mobile/commits/087bf379e6f60226b920cae8784631faec891dc0) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update composables version to 1.36.1"
 
 **2025-06-29** — pushed [eba5a17](https://github.com/arrazyfathan/tudu-mobile/commits/eba5a1726680e6b7b948744b6bcf48926767fd35) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: upgrade compose multiplatform version to 1.8.2"
@@ -22,31 +24,11 @@
 **2025-06-26** — pushed [5545c99](https://github.com/arrazyfathan/tudu-mobile/commits/5545c99d0346a29224b90213bbd7f9960d2714d7) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): improve journal item and home page screen(#2)"
 
 **2025-06-24** — pushed [4b0010b](https://github.com/arrazyfathan/tudu-mobile/commits/4b0010bec7d874c9d0b9e8eb390b23e06ff089c0) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add custom floating action button (#2)"
-
-**2025-06-23** — pushed [e1dcd21](https://github.com/arrazyfathan/tudu-mobile/commits/e1dcd2163587d3b2f29fdd4162e536d9642f6578) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): improve navigation animations (#2)"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 30 June 2025
-
-Total Time: 404 hrs 41 mins
-
-Kotlin                   165 hrs 32 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.04 %
-JavaScript               44 hrs 59 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.88 %
-TypeScript               43 hrs 43 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.58 %
-XML                      26 hrs 21 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.38 %
-Dart                     21 hrs 25 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.18 %
-PHP                      9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.29 %
-Other                    8 hrs 43 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.11 %
-EJS                      8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.95 %
-Groovy                   7 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.92 %
-Text                     6 hrs 14 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.51 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
