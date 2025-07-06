@@ -5,6 +5,16 @@
 
 ## GitHub Activity
 
+**2025-07-05** — pushed [8505cbb](https://github.com/arrazyfathan/tudu-backend/commits/8505cbb40ed29f9587842f70afa64c841ead7826) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat(categories): add redis"
+
+**2025-07-05** — merged PR [#29](https://github.com/arrazyfathan/tudu-backend/pull/29) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add redis on categories API"
+
+**2025-07-05** — opened PR [#29](https://github.com/arrazyfathan/tudu-backend/pull/29) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Add redis on categories API"
+
+**2025-07-05** — pushed [cc68cb0](https://github.com/arrazyfathan/tudu-backend/commits/cc68cb0ebedca36830bfdd988a0fb9cf4c8d966d) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "chore: edit redis configturation"
+
+**2025-07-05** — pushed [8505cbb](https://github.com/arrazyfathan/tudu-backend/commits/8505cbb40ed29f9587842f70afa64c841ead7826) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "feat(categories): add redis"
+
 **2025-07-03** — pushed [5d22a8d](https://github.com/arrazyfathan/tudu-mobile/commits/5d22a8d63437409b66d2ce6209adac7eb665b4d6) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: add haze scaffold"
 
 **2025-07-01** — pushed [4bd18aa](https://github.com/arrazyfathan/tudu-mobile/commits/4bd18aaeb64de951901cc4148c1552f1dbc711de) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(profile): add profile section on profile page (#3)"
@@ -14,39 +24,11 @@
 **2025-06-30** — pushed [f07df71](https://github.com/arrazyfathan/tudu-mobile/commits/f07df71f2872c45615c86b637b958707eca32761) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(ios): add firebase crashlytics"
 
 **2025-06-29** — pushed [087bf37](https://github.com/arrazyfathan/tudu-mobile/commits/087bf379e6f60226b920cae8784631faec891dc0) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update composables version to 1.36.1"
-
-**2025-06-29** — pushed [eba5a17](https://github.com/arrazyfathan/tudu-mobile/commits/eba5a1726680e6b7b948744b6bcf48926767fd35) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: upgrade compose multiplatform version to 1.8.2"
-
-**2025-06-29** — pushed [746a531](https://github.com/arrazyfathan/tudu-mobile/commits/746a5317bea19dcaafa23609efb0243259fc1399) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: update configuration ksp for each target"
-
-**2025-06-29** — pushed [f1e6825](https://github.com/arrazyfathan/tudu-mobile/commits/f1e6825dfa71cbec95b39a29a3fc98352671caf5) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: upgrade agp version to 8.11.0"
-
-**2025-06-29** — pushed [8f94609](https://github.com/arrazyfathan/tudu-mobile/commits/8f946098ba18a17225c921d54a94baef1e4ddd70) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: add version name on navigation drawer (#12)"
-
-**2025-06-28** — pushed [f7202bb](https://github.com/arrazyfathan/tudu-mobile/commits/f7202bb2a1c52ade7014919241e95fb5f3ba6bdf) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore(deps): add paging libs"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 04 July 2025
-
-Total Time: 407 hrs 43 mins
-
-Kotlin                   168 hrs 3 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.34 %
-JavaScript               44 hrs 59 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.80 %
-TypeScript               43 hrs 43 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.50 %
-XML                      26 hrs 21 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.33 %
-Dart                     21 hrs 44 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.22 %
-PHP                      9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.27 %
-Other                    8 hrs 53 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.13 %
-EJS                      8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.94 %
-Groovy                   7 hrs 57 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.91 %
-Text                     6 hrs 14 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.50 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
