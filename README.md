@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-07-28** — pushed [7485bd4](https://github.com/arrazyfathan/tudu-mobile/commits/7485bd438925f9c026f276d93173e2494c653baf) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: add scaffold for about, tag, and category screens"
+
 **2025-07-27** — pushed [78ac951](https://github.com/arrazyfathan/tudu-mobile/commits/78ac95188ebef4f00cd2b39911530728ace5062b) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add more menu on side menu"
 
 **2025-07-24** — pushed [a92d7be](https://github.com/arrazyfathan/tudu-mobile/commits/a92d7bea9ed6ae491d34a1debd8ecf8daeca3d4a) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(journal): add journal graph and editor journal screen"
@@ -22,30 +24,11 @@
 **2025-07-10** — pushed [8b76c99](https://github.com/arrazyfathan/tudu-mobile/commits/8b76c99bfb1df389d5e86a6c9bd2d7c72d45cb10) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(journal): add journal domain and data layer"
 
 **2025-07-10** — pushed [503b109](https://github.com/arrazyfathan/tudu-mobile/commits/503b109203235d795afcbaf26779b2954a226223) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update some dependencies"
-
-**2025-07-07** — pushed [ea4c439](https://github.com/arrazyfathan/tudu-backend/commits/ea4c439b207718025ac80eca3904eff0886b4905) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "chore: modify redis configuration and add env for redis"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 27 July 2025
-
-Total Time: 449 hrs 50 mins
-
-Kotlin                   174 hrs 24 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.02 %
-TypeScript               45 hrs 18 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.88 %
-JavaScript               45 hrs 4 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.83 %
-Dart                     42 hrs 41 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.31 %
-XML                      27 hrs 18 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.95 %
-PHP                      9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.06 %
-Other                    8 hrs 54 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.94 %
-Groovy                   8 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 %
-EJS                      8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.76 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
