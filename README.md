@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-07-31** — pushed [d695b42](https://github.com/arrazyfathan/tudu-mobile/commits/d695b42a2a9aa23d268d744a0d2da33c271b39c3) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(category): add navigation graph category"
+
 **2025-07-29** — pushed [8abfdfe](https://github.com/arrazyfathan/tudu-mobile/commits/8abfdfedb2355562be76ef8a220c496e6bf8d3c2) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(about): add about navigation graph"
 
 **2025-07-29** — pushed [6e3024a](https://github.com/arrazyfathan/tudu-mobile/commits/6e3024a6111d48d9015efac91c98ee8c893abac3) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(navigation): add more routes"
@@ -22,30 +24,11 @@
 **2025-07-20** — pushed [214632e](https://github.com/arrazyfathan/tudu-mobile/commits/214632e17d5d3fcc43536807edff8f1341f13563) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: update app versioning"
 
 **2025-07-19** — pushed [fbe1896](https://github.com/arrazyfathan/tudu-mobile/commits/fbe1896cdce59e327f81fa2cd0a9cba90e87f665) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update ktor to version 3.2.2"
-
-**2025-07-18** — pushed [be0030e](https://github.com/arrazyfathan/tudu-mobile/commits/be0030e2dd72349fa5113c32ab5f710b527a3b5f) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update some dependencies"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 30 July 2025
-
-Total Time: 452 hrs 26 mins
-
-Kotlin                   175 hrs 3 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.95 %
-TypeScript               45 hrs 18 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.82 %
-JavaScript               45 hrs 4 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.77 %
-Dart                     44 hrs 30 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.65 %
-XML                      27 hrs 18 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.92 %
-PHP                      9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.05 %
-Other                    8 hrs 54 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 %
-Groovy                   8 hrs 11 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.77 %
-EJS                      8 hrs 4 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.75 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
