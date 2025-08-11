@@ -5,6 +5,16 @@
 
 ## GitHub Activity
 
+**2025-08-10** — pushed [7b8a7b5](https://github.com/arrazyfathan/tudu-mobile/commits/7b8a7b55a011af2fdedf00881bc3a0552181e476) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update some dependencies
+
+The following dependencies have been updated:
+- androidx-espresso to 3.7.0
+- androidx-testExt to 1.3.0
+- composables to 1.39.0
+- firebase-bom to 34.1.0
+- ktor to 3.2.3
+- firebase-crashlytics to 3.0.6"
+
 **2025-08-02** — pushed [1460bcb](https://github.com/arrazyfathan/tudu-backend/commits/1460bcb924f35d8dd37bd5eb61ce72bf215baf2c) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Temporarily disable redis implementation with comments"
 
 **2025-08-02** — merged PR [#32](https://github.com/arrazyfathan/tudu-backend/pull/32) to [arrazyfathan/tudu-backend](https://github.com/arrazyfathan/tudu-backend): "Temporarily disable redis implementation with comments"
@@ -22,30 +32,11 @@
 **2025-07-29** — pushed [6e3024a](https://github.com/arrazyfathan/tudu-mobile/commits/6e3024a6111d48d9015efac91c98ee8c893abac3) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(navigation): add more routes"
 
 **2025-07-28** — pushed [7485bd4](https://github.com/arrazyfathan/tudu-mobile/commits/7485bd438925f9c026f276d93173e2494c653baf) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: add scaffold for about, tag, and category screens"
-
-**2025-07-27** — pushed [78ac951](https://github.com/arrazyfathan/tudu-mobile/commits/78ac95188ebef4f00cd2b39911530728ace5062b) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(home): add more menu on side menu"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 09 August 2025
-
-Total Time: 480 hrs 48 mins
-
-Kotlin                        175 hrs 14 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.78 %
-Dart                          70 hrs 19 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.36 %
-TypeScript                    45 hrs 18 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.25 %
-JavaScript                    45 hrs 4 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.20 %
-XML                           27 hrs 28 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.61 %
-PHP                           9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 %
-Other                         8 hrs 59 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.83 %
-Groovy                        8 hrs 15 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.69 %
-EJS                           8 hrs 4 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.65 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
