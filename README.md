@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2025-08-14** — pushed [db6a051](https://github.com/arrazyfathan/tudu-mobile/commits/db6a051e1b1839e4de35ca57dc75280e3fb64850) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update androidx-core to 1.17.0"
+
 **2025-08-10** — pushed [7b8a7b5](https://github.com/arrazyfathan/tudu-mobile/commits/7b8a7b55a011af2fdedf00881bc3a0552181e476) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "deps: update some dependencies
 
 The following dependencies have been updated:
@@ -30,30 +32,11 @@ The following dependencies have been updated:
 **2025-07-29** — pushed [8abfdfe](https://github.com/arrazyfathan/tudu-mobile/commits/8abfdfedb2355562be76ef8a220c496e6bf8d3c2) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(about): add about navigation graph"
 
 **2025-07-29** — pushed [6e3024a](https://github.com/arrazyfathan/tudu-mobile/commits/6e3024a6111d48d9015efac91c98ee8c893abac3) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "feat(navigation): add more routes"
-
-**2025-07-28** — pushed [7485bd4](https://github.com/arrazyfathan/tudu-mobile/commits/7485bd438925f9c026f276d93173e2494c653baf) to [arrazyfathan/tudu-mobile](https://github.com/arrazyfathan/tudu-mobile): "chore: add scaffold for about, tag, and category screens"
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 13 August 2025
-
-Total Time: 492 hrs 45 mins
-
-Kotlin                        175 hrs 40 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.01 %
-Dart                          80 hrs 2 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.95 %
-TypeScript                    45 hrs 18 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.03 %
-JavaScript                    45 hrs 4 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.98 %
-XML                           27 hrs 28 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
-PHP                           9 hrs 27 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.88 %
-Other                         8 hrs 59 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.79 %
-Groovy                        8 hrs 15 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.65 %
-EJS                           8 hrs 4 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
