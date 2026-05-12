@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2026-05-12** — pushed `main` to [arrazyfathan/cv](https://github.com/arrazyfathan/cv) at `335a2fa`
+
 **2026-05-12** — pushed `main` to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan) at `4a9e5b8`
 
 **2026-05-11** — pushed `main` to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan) at `e9e8933`
@@ -22,8 +24,6 @@
 **2026-05-06** — pushed `main` to [arrazyfathan/server-driven-ui](https://github.com/arrazyfathan/server-driven-ui) at `aabbb62`
 
 **2026-05-06** — pushed `main` to [arrazyfathan/server-driven-ui](https://github.com/arrazyfathan/server-driven-ui) at `acdbf5f`
-
-**2026-05-06** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `60634d4`
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
