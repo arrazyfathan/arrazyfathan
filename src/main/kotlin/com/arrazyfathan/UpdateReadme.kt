@@ -1,6 +1,7 @@
 package com.arrazyfathan
 
 import com.github.ajalt.clikt.core.CliktCommand
+import com.github.ajalt.clikt.core.main
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
 import com.github.ajalt.clikt.parameters.types.file
@@ -14,7 +15,6 @@ import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.json.Json
 import java.time.Instant
 import java.time.ZoneId
-import kotlin.system.exitProcess
 
 class UpdateReadmeCommand : CliktCommand() {
 
@@ -24,16 +24,17 @@ class UpdateReadmeCommand : CliktCommand() {
 
     override fun run() {
         val json = createJson()
-        val ktorHttpClient = createHttpClient(json)
+        createHttpClient(json).use { ktorHttpClient ->
+            val githubActivity = fetchGithubActivity(ktorHttpClient)
+            // val blogActivity = fetchBlogActivity(ktorHttpClient) TODO try medium blogs
 
-        val githubActivity = fetchGithubActivity(ktorHttpClient)
-        // val blogActivity = fetchBlogActivity(ktorHttpClient) TODO try medium blogs
-
-        val newReadMe = createReadMe(githubActivity)
-        outputFile.writeText(newReadMe)
-
-        // TODO why do I need to do this
-        exitProcess(0)
+            val existingWakaSection = outputFile.takeIf { it.exists() }
+                ?.readText()
+                ?.extractSection(WAKA_START_MARKER, WAKA_END_MARKER)
+            val newReadMe = createReadMe(githubActivity)
+                .preserveSection(WAKA_START_MARKER, WAKA_END_MARKER, existingWakaSection)
+            outputFile.writeText(newReadMe)
+        }
     }
 }
 
@@ -103,7 +104,15 @@ private fun fetchGithubActivity(
                         text = if (firstCommit != null) {
                             "pushed ${firstCommit.markdownUrl()} to ${event.repo?.markdownUrl()}: \"${firstCommit.message}\""
                         } else {
-                            "pushed${pushTarget?.let { " `$it`" } ?: ""} to ${event.repo?.markdownUrl()}${payload.head?.let { " at `${it.take(7)}`" } ?: ""}"
+                            "pushed${pushTarget?.let { " `$it`" } ?: ""} to ${event.repo?.markdownUrl()}${
+                                payload.head?.let {
+                                    " at `${
+                                        it.take(
+                                            7
+                                        )
+                                    }`"
+                                } ?: ""
+                            }"
                         },
                         timestamp = event.createdAt
                     )
@@ -155,4 +164,31 @@ data class ActivityItem(
 
 fun main(argv: Array<String>) {
     UpdateReadmeCommand().main(argv)
+}
+
+private const val WAKA_START_MARKER = "<!--START_SECTION:waka-->"
+private const val WAKA_END_MARKER = "<!--END_SECTION:waka-->"
+
+private fun String.extractSection(
+    startMarker: String,
+    endMarker: String
+): String? {
+    val startIndex = indexOf(startMarker)
+    if (startIndex == -1) return null
+
+    val endIndex = indexOf(endMarker, startIndex)
+    if (endIndex == -1) return null
+
+    return substring(startIndex, endIndex + endMarker.length)
+}
+
+private fun String.preserveSection(
+    startMarker: String,
+    endMarker: String,
+    replacementSection: String?
+): String {
+    if (replacementSection == null) return this
+
+    val existingSection = extractSection(startMarker, endMarker) ?: return this
+    return replace(existingSection, replacementSection)
 }

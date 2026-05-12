@@ -7,7 +7,7 @@ fun createReadMe(
 ![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/main/media/banner-dark.png#gh-dark-mode-only)
 ![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/main/media/banner-light.png#gh-light-mode-only)
 
-<table><tr><td valign="top" width="100%">    
+<table><tr><td style="vertical-align: top; width: 100%;">  
 
 ## GitHub Activity
 

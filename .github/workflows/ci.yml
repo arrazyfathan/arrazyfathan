@@ -42,7 +42,7 @@ jobs:
 
       - name: Update README
         run: |-
-          ./gradlew run --args="-o README.md"
+          ./gradlew --no-daemon --console=plain run --args="-o README.md"
           cat README.md
 
       - name: (Fail-only) Upload the build report
