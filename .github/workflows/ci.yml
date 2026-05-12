@@ -1,5 +1,9 @@
 name: CI
 
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: false
+
 on:
   push:
     branches:
@@ -18,6 +22,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Install JDK
         uses: actions/setup-java@v4
@@ -57,15 +64,21 @@ jobs:
           git config --global user.name "README-bot"
           git add -A
           git commit -m "Updated content" || exit 0
+          git fetch origin main
+          git pull --rebase origin main
           git push
 
   update-readme:
     name: WakaReadme Update
     if: github.event_name != 'pull_request'
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
 
       # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
