@@ -5,28 +5,30 @@
 
 ## GitHub Activity
 
+**2026-05-10** — watched repository [zellij-org/zellij](https://github.com/zellij-org/zellij)
 
+**2026-05-06** — pushed `main` to [arrazyfathan/cv](https://github.com/arrazyfathan/cv) at `2b04896`
+
+**2026-05-06** — pushed `main` to [arrazyfathan/server-driven-ui](https://github.com/arrazyfathan/server-driven-ui) at `80067d5`
+
+**2026-05-06** — pushed `main` to [arrazyfathan/server-driven-ui](https://github.com/arrazyfathan/server-driven-ui) at `aabbb62`
+
+**2026-05-06** — pushed `main` to [arrazyfathan/server-driven-ui](https://github.com/arrazyfathan/server-driven-ui) at `acdbf5f`
+
+**2026-05-06** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `60634d4`
+
+**2026-05-06** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `4078fb3`
+
+**2026-05-05** — pushed `main` to [arrazyfathan/NewsApp](https://github.com/arrazyfathan/NewsApp) at `7fda0f2`
+
+**2026-05-05** — pushed `main` to [arrazyfathan/NewsApp](https://github.com/arrazyfathan/NewsApp) at `f06a64a`
+
+**2026-05-05** — pushed `main` to [arrazyfathan/NewsApp](https://github.com/arrazyfathan/NewsApp) at `07b3210`
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
 
 <!--START_SECTION:waka-->
-
-```kotlin
-From: 10 September 2024 - To: 29 April 2026
-
-Total Time: 820 hrs 39 mins
-
-Dart                          345 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.60 %
-Kotlin                        183 hrs 50 mins       ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.14 %
-JavaScript                    47 hrs 52 mins        ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.76 %
-TypeScript                    45 hrs 37 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.49 %
-XML                           29 hrs 32 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.56 %
-Text                          19 hrs 41 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.37 %
-Groovy                        10 hrs 42 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.29 %
-Markdown                      10 hrs 6 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.22 %
-```
-
 <!--END_SECTION:waka-->
 
 ---

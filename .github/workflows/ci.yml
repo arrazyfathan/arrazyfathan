@@ -9,6 +9,9 @@ on:
   schedule:
     - cron: '0 1 * * *'  # Run every day at 1:00 AM
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -37,7 +40,7 @@ jobs:
       - name: Update README
         run: |-
           ./gradlew run --args="-o README.md"
-           cat README.md
+          cat README.md
 
       - name: (Fail-only) Upload the build report
         if: failure()
@@ -47,6 +50,7 @@ jobs:
           path: build-reports.zip
 
       - name: Commit and push if changed
+        if: github.event_name != 'pull_request'
         run: |-
           git diff
           git config --global user.email "actions@users.noreply.github.com"
@@ -57,9 +61,12 @@ jobs:
 
   update-readme:
     name: WakaReadme Update
-    needs: build
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:

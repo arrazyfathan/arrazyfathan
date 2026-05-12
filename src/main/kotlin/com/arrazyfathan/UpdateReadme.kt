@@ -46,7 +46,7 @@ private fun fetchGithubActivity(
         .filter { it.public }
         .mapNotNull { event ->
             when (val payload = event.payload) {
-                UnknownPayload, null -> return@mapNotNull null
+                UnknownPayload -> return@mapNotNull null
                 is IssuesEventPayload -> {
                     ActivityItem(
                         "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
@@ -64,8 +64,12 @@ private fun fetchGithubActivity(
                 is PullRequestPayload -> {
                     val action =
                         if (payload.pullRequest.merged == true) "merged" else payload.action
+                    val repoText = event.repo?.markdownUrl() ?: "unknown repository"
+                    val pullRequestLink = payload.pullRequest.htmlUrl?.let { "[#${payload.number}]($it)" }
+                        ?: "#${payload.number}"
+                    val pullRequestTitle = payload.pullRequest.title?.let { ": \"$it\"" } ?: ""
                     ActivityItem(
-                        text = "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
+                        text = "$action PR $pullRequestLink to $repoText$pullRequestTitle",
                         timestamp = event.createdAt
                     )
                 }
@@ -85,17 +89,22 @@ private fun fetchGithubActivity(
                 }
 
                 is ForkEventPayload -> {
+                    val forkee = payload.forkee
                     ActivityItem(
-                        text = "forked repository [#${payload.name}](${event.repo?.markdownUrl()}) to ${payload.htmlUrl}",
+                        text = "forked repository ${event.repo?.markdownUrl()}${forkee?.htmlUrl?.let { " to [${forkee.fullName ?: forkee.name ?: "fork"}]($it)" } ?: ""}",
                         timestamp = event.createdAt
                     )
                 }
 
                 is PushEventPayload -> {
+                    val firstCommit = payload.commits.firstOrNull()
+                    val pushTarget = payload.ref?.substringAfterLast("/")
                     ActivityItem(
-                        text = "pushed ${
-                            payload.commits.first().markdownUrl()
-                        } to ${event.repo?.markdownUrl()}: \"${payload.commits.first().message}\"",
+                        text = if (firstCommit != null) {
+                            "pushed ${firstCommit.markdownUrl()} to ${event.repo?.markdownUrl()}: \"${firstCommit.message}\""
+                        } else {
+                            "pushed${pushTarget?.let { " `$it`" } ?: ""} to ${event.repo?.markdownUrl()}${payload.head?.let { " at `${it.take(7)}`" } ?: ""}"
+                        },
                         timestamp = event.createdAt
                     )
                 }
