@@ -14,7 +14,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'  # Run every day at 1:00 AM
+    - cron: '0 18 * * *'  # Run every day at 01:00 WIB
 
 permissions:
   contents: write
