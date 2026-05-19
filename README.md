@@ -5,6 +5,10 @@
 
 ## GitHub Activity
 
+**2026-05-18** — watched repository [asmvik/yabai](https://github.com/asmvik/yabai)
+
+**2026-05-18** — watched repository [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+
 **2026-05-18** — watched repository [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
 **2026-05-17** — watched repository [Meet-Miyani/compose-skill](https://github.com/Meet-Miyani/compose-skill)
@@ -20,10 +24,6 @@
 **2026-05-15** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `a310d97`
 
 **2026-05-15** — watched repository [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
-
-**2026-05-14** — pushed `master` to [arrazyfathan/ChelseaApp](https://github.com/arrazyfathan/ChelseaApp) at `275cb40`
-
-**2026-05-14** — created branch `feat/architecture` on [arrazyfathan/food-for-you](https://github.com/arrazyfathan/food-for-you)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
