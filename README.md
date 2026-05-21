@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2026-05-21** — watched repository [hamen/material-3-skill](https://github.com/hamen/material-3-skill)
+
 **2026-05-20** — watched repository [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 
 **2026-05-20** — watched repository [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
@@ -22,8 +24,6 @@
 **2026-05-19** — watched repository [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)
 
 **2026-05-18** — watched repository [asmvik/yabai](https://github.com/asmvik/yabai)
-
-**2026-05-18** — watched repository [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
