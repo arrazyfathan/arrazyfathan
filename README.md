@@ -5,6 +5,8 @@
 
 ## GitHub Activity
 
+**2026-06-02** — pushed `migrate-to-compose` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `14fe50f`
+
 **2026-05-29** — watched repository [William-Ger/typer](https://github.com/William-Ger/typer)
 
 **2026-05-28** — watched repository [harness/harness](https://github.com/harness/harness)
@@ -22,8 +24,6 @@
 **2026-05-20** — pushed `migrate-to-compose` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `171bd91`
 
 **2026-05-20** — created branch `feat/migrate-to-compose` on [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
-
-**2026-05-19** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `19cfbf4`
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
