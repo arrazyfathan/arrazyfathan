@@ -5,6 +5,16 @@
 
 ## GitHub Activity
 
+**2026-06-10** — watched repository [Expensify/App](https://github.com/Expensify/App)
+
+**2026-06-10** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `0c67e54`
+
+**2026-06-10** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `803e72a`
+
+**2026-06-09** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `485644f`
+
+**2026-06-09** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `e08d7cc`
+
 **2026-06-09** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `7a7f90a`
 
 **2026-06-09** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `5cab14c`
@@ -14,16 +24,6 @@
 **2026-06-09** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `26532ea`
 
 **2026-06-09** — created branch `main` on [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
-
-**2026-06-07** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `5c2e9d9`
-
-**2026-06-07** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `d617d5f`
-
-**2026-06-07** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `c627fc3`
-
-**2026-06-05** — watched repository [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
-
-**2026-06-04** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `d7121e9`
                 
 <sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
 </table>
