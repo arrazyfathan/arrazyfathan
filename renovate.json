@@ -1,0 +1,86 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    ":dependencyDashboard",
+    ":semanticCommits",
+    ":separateMultipleMajorReleases"
+  ],
+  "timezone": "Asia/Jakarta",
+  "enabledManagers": [
+    "gradle",
+    "gradle-wrapper",
+    "github-actions"
+  ],
+  "labels": [
+    "dependencies"
+  ],
+  "schedule": [
+    "before 6am on monday"
+  ],
+  "prConcurrentLimit": 5,
+  "prHourlyLimit": 2,
+  "rebaseWhen": "conflicted",
+  "packageRules": [
+    {
+      "description": "Keep the WakaReadme action on the branch required by the workflow.",
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchPackageNames": [
+        "athul/waka-readme"
+      ],
+      "enabled": false
+    },
+    {
+      "description": "Group Kotlin compiler plugins together.",
+      "groupName": "kotlin",
+      "matchPackageNames": [
+        "org.jetbrains.kotlin.jvm",
+        "org.jetbrains.kotlin.plugin.serialization",
+        "/^org\\.jetbrains\\.kotlin:/"
+      ]
+    },
+    {
+      "description": "Group kotlinx libraries together.",
+      "groupName": "kotlinx",
+      "matchPackageNames": [
+        "/^org\\.jetbrains\\.kotlinx:/"
+      ]
+    },
+    {
+      "description": "Group Ktor dependencies and BOM updates together.",
+      "groupName": "ktor",
+      "matchPackageNames": [
+        "/^io\\.ktor:/"
+      ]
+    },
+    {
+      "description": "Group GitHub Actions updates together.",
+      "groupName": "github-actions",
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ]
+    },
+    {
+      "description": "Automerge low-risk patch updates after CI passes.",
+      "matchUpdateTypes": [
+        "patch",
+        "digest"
+      ],
+      "automerge": true,
+      "automergeType": "pr"
+    },
+    {
+      "description": "Keep major updates separate for review.",
+      "matchUpdateTypes": [
+        "major"
+      ],
+      "dependencyDashboardApproval": true
+    }
+  ]
+}
