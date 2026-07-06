@@ -3,6 +3,8 @@
 
 ## Recent GitHub Activity
 
+**2026-07-05** — pushed `main` to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan) at `ce2caff`
+
 **2026-07-05** — pushed `main` to [arrazyfathan/cv](https://github.com/arrazyfathan/cv) at `f29de77`
 
 **2026-07-05** — pushed `main` to [arrazyfathan/arrazyfathan](https://github.com/arrazyfathan/arrazyfathan) at `c3268cc`
@@ -16,8 +18,6 @@
 **2026-07-01** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `9786b44`
 
 **2026-07-01** — opened issue [#3](https://github.com/arrazyfathan/kbbi-kmp/issues/3) on [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp): "Implement offline-first for proverb"
-
-**2026-07-01** — opened issue [#2](https://github.com/arrazyfathan/kbbi-kmp/issues/2) on [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp): "Implement offline-first for word meanings"
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
