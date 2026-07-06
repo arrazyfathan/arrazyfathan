@@ -86,7 +86,7 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: kotlin # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_30_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional

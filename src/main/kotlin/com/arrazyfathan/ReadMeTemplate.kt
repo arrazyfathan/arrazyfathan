@@ -7,19 +7,18 @@ fun createReadMe(
 ![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/main/media/banner-dark.png#gh-dark-mode-only)
 ![Ar Razy Fathan Rabbani Banner](https://github.com/arrazyfathan/arrazyfathan/blob/main/media/banner-light.png#gh-light-mode-only)
 
-<table><tr><td style="vertical-align: top; width: 100%;">  
-
-## GitHub Activity
+## Recent GitHub Activity
 
 ${githubActivity.joinToString("\n\n") { it.toString() }}
                 
-<sub><a href="https://github.com/ZacSweers/ZacSweers/">Inspired by Zac Sweeners's auto-updating profile README with Kotlin Implementation.</a></sub>
-</table>
+<sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
-© 2025 — Ar Razy Fathan Rabbani
+© 2026 — Ar Razy Fathan Rabbani
   """.trimIndent()
 }

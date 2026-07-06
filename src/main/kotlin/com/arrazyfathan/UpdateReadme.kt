@@ -49,6 +49,7 @@ private fun fetchGithubActivity(
             when (val payload = event.payload) {
                 UnknownPayload -> return@mapNotNull null
                 is IssuesEventPayload -> {
+                    if (payload.action !in setOf("opened", "reopened", "closed")) return@mapNotNull null
                     ActivityItem(
                         "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
                         event.createdAt
@@ -126,7 +127,8 @@ private fun fetchGithubActivity(
                 }
             }
         }
-        .take(10)
+        .distinctBy { it.text }
+        .take(8)
 }
 
 fun createJson() = Json {
