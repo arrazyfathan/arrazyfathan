@@ -33,7 +33,7 @@ application {
 
 dependencies {
     implementation("com.github.ajalt.clikt:clikt:5.1.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0")
 
     implementation(platform("io.ktor:ktor-bom:3.5.1"))
