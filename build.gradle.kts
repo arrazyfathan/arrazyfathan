@@ -43,7 +43,7 @@ dependencies {
     implementation("io.ktor:ktor-client-okhttp")
     implementation("io.ktor:ktor-client-logging")
 
-    runtimeOnly("ch.qos.logback:logback-classic:1.5.37")
+    runtimeOnly("ch.qos.logback:logback-classic:1.5.38")
 }
 
 tasks.jar {
