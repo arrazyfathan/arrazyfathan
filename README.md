@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
-**2026-07-20** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `0a6a760`
+**2026-07-21** — opened issue [#24](https://github.com/arrazyfathan/kbbi-api/issues/24) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Migrate from cheerio to Crawlee"
 
-**2026-07-20** — closed issue [#17](https://github.com/arrazyfathan/kbbi-api/issues/17) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add Express integration tests"
+**2026-07-21** — watched repository [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
-**2026-07-20** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `4af06c1`
+**2026-07-21** — watched repository [scrapy/scrapy](https://github.com/scrapy/scrapy)
 
-**2026-07-20** — closed issue [#18](https://github.com/arrazyfathan/kbbi-api/issues/18) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Validate environment configuration at startup"
+**2026-07-21** — watched repository [apify/crawlee](https://github.com/apify/crawlee)
 
-**2026-07-20** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `bd6f4f2`
+**2026-07-21** — closed issue [#8](https://github.com/arrazyfathan/kbbi-api/issues/8) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Optimize figure list endpoints to avoid eager detail fetches"
 
-**2026-07-19** — closed issue [#15](https://github.com/arrazyfathan/kbbi-api/issues/15) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Standardize API error responses"
+**2026-07-21** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `c4f0aa1`
 
-**2026-07-19** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `ab2999a`
+**2026-07-21** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `ea9e6d3`
 
-**2026-07-19** — closed issue [#16](https://github.com/arrazyfathan/kbbi-api/issues/16) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Expand CI quality gates"
+**2026-07-21** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `503fcfe`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
