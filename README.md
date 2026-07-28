@@ -3,6 +3,14 @@
 
 ## Recent GitHub Activity
 
+**2026-07-27** — closed issue [#19](https://github.com/arrazyfathan/kbbi-api/issues/19) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Improve Supabase indexes and access-control documentation"
+
+**2026-07-27** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `4c2d48f`
+
+**2026-07-27** — closed issue [#21](https://github.com/arrazyfathan/kbbi-api/issues/21) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Salt visitor ID hashes for privacy"
+
+**2026-07-27** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `24acd65`
+
 **2026-07-27** — closed issue [#34](https://github.com/arrazyfathan/kbbi-api/issues/34) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add OpenAPI linting and contract validation"
 
 **2026-07-27** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `775b7f6`
@@ -10,14 +18,6 @@
 **2026-07-25** — opened issue [#33](https://github.com/arrazyfathan/kbbi-api/issues/33) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Harden production security defaults"
 
 **2026-07-25** — opened issue [#34](https://github.com/arrazyfathan/kbbi-api/issues/34) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add OpenAPI linting and contract validation"
-
-**2026-07-25** — opened issue [#32](https://github.com/arrazyfathan/kbbi-api/issues/32) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add architecture guardrails for module boundaries"
-
-**2026-07-25** — opened issue [#30](https://github.com/arrazyfathan/kbbi-api/issues/30) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Introduce versioned API routes under /api/v1"
-
-**2026-07-25** — opened issue [#31](https://github.com/arrazyfathan/kbbi-api/issues/31) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Clean repository artifacts and add contributor workflow docs"
-
-**2026-07-25** — opened issue [#29](https://github.com/arrazyfathan/kbbi-api/issues/29) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add GitHub Actions CI quality gate"
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
