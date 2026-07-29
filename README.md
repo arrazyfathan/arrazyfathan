@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
-**2026-07-27** — closed issue [#19](https://github.com/arrazyfathan/kbbi-api/issues/19) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Improve Supabase indexes and access-control documentation"
+**2026-07-28** — closed issue [#28](https://github.com/arrazyfathan/kbbi-api/issues/28) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Improve production observability and health checks"
 
-**2026-07-27** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `4c2d48f`
+**2026-07-28** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `80ed749`
 
-**2026-07-27** — closed issue [#21](https://github.com/arrazyfathan/kbbi-api/issues/21) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Salt visitor ID hashes for privacy"
+**2026-07-28** — pushed `main` to [arrazyfathan/cv-astro](https://github.com/arrazyfathan/cv-astro) at `686a31b`
 
-**2026-07-27** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `24acd65`
+**2026-07-28** — closed issue [#26](https://github.com/arrazyfathan/kbbi-api/issues/26) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Refactor controllers and services to use dependency injection"
 
-**2026-07-27** — closed issue [#34](https://github.com/arrazyfathan/kbbi-api/issues/34) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add OpenAPI linting and contract validation"
+**2026-07-28** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `9f45df1`
 
-**2026-07-27** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `775b7f6`
+**2026-07-28** — commented on [#29](https://github.com/arrazyfathan/kbbi-api/issues/29#issuecomment-5112317784) in [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api)
 
-**2026-07-25** — opened issue [#33](https://github.com/arrazyfathan/kbbi-api/issues/33) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Harden production security defaults"
+**2026-07-28** — closed issue [#29](https://github.com/arrazyfathan/kbbi-api/issues/29) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add GitHub Actions CI quality gate"
 
-**2026-07-25** — opened issue [#34](https://github.com/arrazyfathan/kbbi-api/issues/34) on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api): "Add OpenAPI linting and contract validation"
+**2026-07-28** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `ab53b97`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
