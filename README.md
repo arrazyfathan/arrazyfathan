@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
-**2026-07-31** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `5457984`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `4b3e4c9`
 
-**2026-07-31** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `549b096`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `5467356`
 
-**2026-07-31** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `5f7e2d6`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `bd604b6`
 
-**2026-07-31** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `e3b0931`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `46758f3`
 
-**2026-07-31** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `2a08a17`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `af04249`
 
-**2026-07-30** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `da4759e`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `d726594`
 
-**2026-07-30** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `fe5b296`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `8082b04`
 
-**2026-07-30** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `70e6acf`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `33cab19`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
