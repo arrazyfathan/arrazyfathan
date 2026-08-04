@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `4b3e4c9`
+**2026-08-04** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `e211bb4`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `5467356`
+**2026-08-04** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `47e1934`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `bd604b6`
+**2026-08-04** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `74f7bee`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `46758f3`
+**2026-08-04** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `13ee8e6`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `af04249`
+**2026-08-04** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `6914006`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `d726594`
+**2026-08-04** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `bb8c927`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `8082b04`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `3fffba8`
 
-**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `33cab19`
+**2026-08-03** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `4b31564`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
