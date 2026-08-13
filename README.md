@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
-**2026-08-11** — watched repository [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)
+**2026-08-13** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `53c5f00`
 
-**2026-08-11** — watched repository [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)
+**2026-08-13** — deleted branch `feature/proverb` on [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
 
-**2026-08-11** — watched repository [anthropics/skills](https://github.com/anthropics/skills)
+**2026-08-13** — merged PR #4 to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
 
-**2026-08-11** — pushed `landing-page-portfolio` to [arrazyfathan/cv-astro](https://github.com/arrazyfathan/cv-astro) at `f948a06`
+**2026-08-13** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `1343604`
 
-**2026-08-11** — created branch `feat/landing-page-portfolio` on [arrazyfathan/cv-astro](https://github.com/arrazyfathan/cv-astro)
+**2026-08-13** — opened PR #4 to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
 
-**2026-08-10** — pushed `main` to [arrazyfathan/cv-astro](https://github.com/arrazyfathan/cv-astro) at `a8fa5f9`
+**2026-08-13** — created branch `feature/proverb` on [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
 
-**2026-08-10** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `a507d25`
+**2026-08-13** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `2838d91`
 
-**2026-08-10** — pushed `main` to [arrazyfathan/obscurenv](https://github.com/arrazyfathan/obscurenv) at `0433edf`
+**2026-08-12** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `60a8616`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
