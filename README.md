@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
-**2026-08-13** — watched repository [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+**2026-08-18** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `cc034e3`
 
-**2026-08-13** — created branch `feat/setting-notification-reminder` on [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
+**2026-08-18** — deleted tag `5.12.0` on [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
 
-**2026-08-13** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `52230cb`
+**2026-08-18** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `beef784`
 
-**2026-08-13** — pushed `main` to [arrazyfathan/obscurenv-web](https://github.com/arrazyfathan/obscurenv-web) at `53c5f00`
+**2026-08-18** — merged PR #49 to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
 
-**2026-08-13** — deleted branch `feature/proverb` on [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
+**2026-08-18** — opened PR #49 to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
 
-**2026-08-13** — merged PR #4 to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
+**2026-08-18** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `1acbce5`
 
-**2026-08-13** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `1343604`
+**2026-08-18** — merged PR #48 to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
 
-**2026-08-13** — opened PR #4 to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp)
+**2026-08-18** — opened PR #48 to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
