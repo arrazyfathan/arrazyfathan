@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```kotlin
-From: 17 July 2026 - To: 16 August 2026
+From: 18 July 2026 - To: 17 August 2026
 
 Total Time: 34 hrs 9 mins
 
