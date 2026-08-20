@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
+**2026-08-19** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `49f05d4`
+
+**2026-08-19** — pushed `support-foldable-phone` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `5aa44ce`
+
+**2026-08-19** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `3d68aa2`
+
+**2026-08-19** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `7636249`
+
+**2026-08-19** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `52df701`
+
 **2026-08-19** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `8c34fd9`
 
 **2026-08-19** — created branch `feat/support-foldable-phone` on [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi)
 
 **2026-08-19** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `41e730e`
-
-**2026-08-19** — closed issue [#31](https://github.com/arrazyfathan/kbbi/issues/31) on [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi): "Add opt-in daily learning and bookmark review notifications"
-
-**2026-08-19** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `de19403`
-
-**2026-08-19** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `641c87f`
-
-**2026-08-19** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `de19403`
-
-**2026-08-18** — pushed `development` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `f6ddfc3`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
