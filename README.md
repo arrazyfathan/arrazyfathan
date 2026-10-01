@@ -3,6 +3,10 @@
 
 ## Recent GitHub Activity
 
+**2026-09-30** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `cf176e8`
+
+**2026-09-30** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `9971481`
+
 **2026-09-30** — watched repository [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 
 **2026-09-29** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `6146fa9`
@@ -14,10 +18,6 @@
 **2026-09-29** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `dae3cac`
 
 **2026-09-29** — watched repository [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
-
-**2026-09-28** — pushed `main` to [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api) at `31bcbef`
-
-**2026-09-28** — deleted branch `feat/back-office` on [arrazyfathan/kbbi-api](https://github.com/arrazyfathan/kbbi-api)
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
