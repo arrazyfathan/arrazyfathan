@@ -3,6 +3,14 @@
 
 ## Recent GitHub Activity
 
+**2026-10-21** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `2161b92`
+
+**2026-10-22** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `72cf23d`
+
+**2026-10-22** — watched repository [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+
+**2026-10-22** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `a8f9f8f`
+
 **2026-10-20** — watched repository [rock3r/remozio](https://github.com/rock3r/remozio)
 
 **2026-10-19** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `2dcf079`
@@ -10,14 +18,6 @@
 **2026-10-17** — watched repository [mttmcknn/sea-glass](https://github.com/mttmcknn/sea-glass)
 
 **2026-10-17** — watched repository [StevenMXZ/Winlator-Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi)
-
-**2026-10-16** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `f9cc547`
-
-**2026-10-16** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `d0664d9`
-
-**2026-10-17** — watched repository [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
-
-**2026-10-14** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `a0a3f39`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
