@@ -3,6 +3,8 @@
 
 ## Recent GitHub Activity
 
+**2026-10-25** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `08282c8`
+
 **2026-10-22** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `cd45581`
 
 **2026-10-21** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `2161b92`
@@ -16,8 +18,6 @@
 **2026-10-20** — watched repository [rock3r/remozio](https://github.com/rock3r/remozio)
 
 **2026-10-19** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `2dcf079`
-
-**2026-10-17** — watched repository [mttmcknn/sea-glass](https://github.com/mttmcknn/sea-glass)
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
