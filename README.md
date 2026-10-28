@@ -3,6 +3,8 @@
 
 ## Recent GitHub Activity
 
+**2026-10-28** — pushed `main` to [arrazyfathan/Lerun](https://github.com/arrazyfathan/Lerun) at `6702894`
+
 **2026-10-27** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `dceead8`
 
 **2026-10-25** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `08282c8`
@@ -16,8 +18,6 @@
 **2026-10-22** — watched repository [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 **2026-10-22** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `a8f9f8f`
-
-**2026-10-20** — watched repository [rock3r/remozio](https://github.com/rock3r/remozio)
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
