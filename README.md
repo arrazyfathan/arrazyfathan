@@ -3,21 +3,21 @@
 
 ## Recent GitHub Activity
 
+**2026-11-12** — watched repository [leizhiyuan/rexpocket](https://github.com/leizhiyuan/rexpocket)
+
+**2026-11-10** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `a5f2f83`
+
+**2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `6542d00`
+
+**2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `e5b0589`
+
+**2026-11-10** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `21f5332`
+
+**2026-11-11** — watched repository [dqhieu/Silica](https://github.com/dqhieu/Silica)
+
 **2026-11-11** — watched repository [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap)
 
 **2026-11-10** — watched repository [reemus-dev/ghostty-designer](https://github.com/reemus-dev/ghostty-designer)
-
-**2026-11-09** — pushed `main` to [arrazyfathan/Lerun](https://github.com/arrazyfathan/Lerun) at `0bcbe9b`
-
-**2026-11-09** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `fd58a8a`
-
-**2026-11-09** — pushed `main` to [arrazyfathan/NewsApp](https://github.com/arrazyfathan/NewsApp) at `cfe93d0`
-
-**2026-11-08** — watched repository [ardia-browser/ardia](https://github.com/ardia-browser/ardia)
-
-**2026-11-08** — watched repository [rit3zh/expo-glass-custom-menu](https://github.com/rit3zh/expo-glass-custom-menu)
-
-**2026-11-06** — pushed `main` to [arrazyfathan/NewsApp](https://github.com/arrazyfathan/NewsApp) at `a35bfaa`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
