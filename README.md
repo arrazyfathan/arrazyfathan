@@ -3,6 +3,10 @@
 
 ## Recent GitHub Activity
 
+**2026-11-13** — watched repository [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)
+
+**2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `d6a46fb`
+
 **2026-11-12** — watched repository [leizhiyuan/rexpocket](https://github.com/leizhiyuan/rexpocket)
 
 **2026-11-10** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `a5f2f83`
@@ -14,10 +18,6 @@
 **2026-11-10** — pushed `main` to [arrazyfathan/kbbi-kmp](https://github.com/arrazyfathan/kbbi-kmp) at `21f5332`
 
 **2026-11-11** — watched repository [dqhieu/Silica](https://github.com/dqhieu/Silica)
-
-**2026-11-11** — watched repository [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap)
-
-**2026-11-10** — watched repository [reemus-dev/ghostty-designer](https://github.com/reemus-dev/ghostty-designer)
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
