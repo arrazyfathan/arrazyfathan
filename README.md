@@ -3,6 +3,12 @@
 
 ## Recent GitHub Activity
 
+**2026-11-13** — pushed `main` to [arrazyfathan/Lerun](https://github.com/arrazyfathan/Lerun) at `cc2660d`
+
+**2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `e8a7eec`
+
+**2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `316487d`
+
 **2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `e850114`
 
 **2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `60971a4`
@@ -12,12 +18,6 @@
 **2026-11-13** — watched repository [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)
 
 **2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `d6a46fb`
-
-**2026-11-12** — watched repository [leizhiyuan/rexpocket](https://github.com/leizhiyuan/rexpocket)
-
-**2026-11-10** — pushed `main` to [arrazyfathan/kbbi](https://github.com/arrazyfathan/kbbi) at `a5f2f83`
-
-**2026-11-12** — pushed `main` to [arrazyfathan/nytimes-android](https://github.com/arrazyfathan/nytimes-android) at `6542d00`
                 
 <sub>Auto-updated from GitHub activity. Inspired by <a href="https://github.com/ZacSweers/ZacSweers/">Zac Sweers' auto-updating profile README</a>.</sub>
 
